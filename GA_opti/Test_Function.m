@@ -65,7 +65,7 @@ index_z = 1 ;
         ys = [ -(fliplr(ys)) ys] ;
         xs = [   fliplr(xs)  xs] ;
         
-        for (n = 1 : 1 : 362)
+        parfor (n = 1 : 1 : 362)
         	zs(n) = z   ; 
         end
 

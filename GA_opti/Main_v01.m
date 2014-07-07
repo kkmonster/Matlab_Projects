@@ -6,6 +6,8 @@ clc
 % Determine workspace of Delta Robot by Gossilin's method
 % define Paramiter of Delta Robot 
 % defind size of base & end-effect(e_eff) **base >= e_eff**
+
+
 base  =      50  ;
 e_eff =      0   ;
 
@@ -14,6 +16,7 @@ r = base-e_eff   ;
 
 % sizes of   arms =    [ l11  l21  l31 ]   1 lower with eff
 %                      [ l12  l22  l32 ]   2 upper with motor
+
 l11 =    40         ;
 l12 =    50         ;
 
@@ -31,24 +34,28 @@ thata3 =    240    ;
 % for thata3=120 :30:240
 
 % memory in Matrix form
+
 arm = [l11, l21, l31; l12, l22, l32 ]; 
+
 thata = [thata1, thata2, thata3];
 
+for n=1:3
+    
+    r_max     = arm(1,n)+ arm(2,n) ;
+    origin(n) = [r_max*cosd(thara(n)); r_max*cosd(thara(n); 0];
+       
 %%
 % define rank of height : z 
-for i = 1 : 3
-
-    zRank(i) = ((arm(2,i) + arm(1,i))^2-r^2)^0.5;
-    
- end    
+end
+intersec_point = fn_trilateration ;
  
-zstep_size=(min(zRank))/20;  %% define resolution
+zstep_size=((intersec_point(3)))/20;  %% define resolution
 
 %%
 
 
 indexz = 1 ;
-for z = 0 : zstep_size : min(zRank) 
+for z = 0 : zstep_size : zstep_size
 
 indexz    
     
@@ -68,6 +75,7 @@ else
 end
 
 ellip1 = [ xs; ys ]   ;
+
 %%
 
 i=2;
@@ -180,6 +188,8 @@ end
 
 figure(1)
  axis equal, hold on
+ 
+ 
 % plot3(x1, y1, z1, ':c')
 % plot3(x2, y2, z2, ':m')
 % plot3(x3, y3, z3, ':g')

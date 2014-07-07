@@ -1,4 +1,4 @@
-function [ xs, ys, zs] = fn_case1_z_lessthan_l2minusl1 (arm, z, i)
+function [ xs, ys ] = fn_case1_z_lessthan_l2minusl1 (arm, z, i)
 % Summary of this function goes here
 %   Detailed explanation goes here
 %%
@@ -38,13 +38,15 @@ function [ xs, ys, zs] = fn_case1_z_lessthan_l2minusl1 (arm, z, i)
         ys = [ -(fliplr(ys)) ys] ;
         xs = [   fliplr(xs)  xs] ;
         
-        for (n = 1 : 1 : 362)
-        	zs(n) = z   ; 
-        end
+%         parfor (n = 1 : 1 : 362)
+%         	zs(n) = z   ; 
+%         end
 
         xs = double(xs)   ;
         ys = double(ys)   ;
-        zs = double(zs)   ;
+%         zs = double(zs)   ;
+        
+end
     
 %         index = 1   ;
 %         for xx          = 0 : 1 : 180
@@ -67,5 +69,5 @@ function [ xs, ys, zs] = fn_case1_z_lessthan_l2minusl1 (arm, z, i)
 % 
 %           ys = double(ys)   ;
 %           xs = double(xs)	;
-end
+%end
 
