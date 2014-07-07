@@ -1,4 +1,4 @@
-function [] = plot_matrix( xp, yp ,zp )
+function [] = fn_plot_matrix( xp, yp ,zp )
 %UNTITLED Summary of this function goes here
 %   Detailed explanation goes here
 index=size(xp) ;
