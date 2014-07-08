@@ -1,4 +1,4 @@
-function [ po ] = fn_trilateration(arm, thata)
+function [ po ] = fn_trilateration(arm, thata ,r)
 %       รับอินพุทเป็น ตำแหน่งจุดศูนย์กลาง และรัศมีของทรงกลม 3 ลูกเเพื่อ
 %       หาจุดตัดกัน
 %   Detailed explanation goes here
@@ -7,7 +7,7 @@ function [ po ] = fn_trilateration(arm, thata)
 for n=1:3
     
     r_max(n)     = arm(1,n)+ arm(2,n) ;
-    origin(n,:) = [r_max(n) *cosd(thata(n)); r_max(n) *sind(thata(n)); 0];
+    origin(n,:) = [r *cosd(thata(n));r*sind(thata(n)); 0];
       
 end
 
