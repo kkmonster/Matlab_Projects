@@ -8,7 +8,7 @@ clc
 % defind size of base & end-effect(e_eff) **base >= e_eff**
 
 
-base  =      1  ;
+base  =      30  ;
 e_eff =      0   ;
 
 r = base-e_eff   ;
@@ -17,14 +17,14 @@ r = base-e_eff   ;
 % sizes of   arms =    [ l11  l21  l31 ]   1 lower with eff
 %                      [ l12  l22  l32 ]   2 upper with motor
 
-l11 =    1         ;
-l12 =    1         ;
+l11 =    40         ;
+l12 =    20         ;
 
-l21 =    1         ;
-l22 =    1         ;
+l21 =    40         ;
+l22 =    20         ;
 
-l31 =    1         ;
-l32 =    1         ;
+l31 =    40         ;
+l32 =    20         ;
 
 % angle of Actuator Counter Clockwise
 thata1 =    0      ;
@@ -35,12 +35,16 @@ thata3 =    240    ;
 
 % memory in Matrix form
 
-arm   = [l11, l21, l31; l12, l22, l32 ]; 
+arm   = [l11, l21, l31; l12, l22, l32 ] ; 
 
-thata = [thata1, thata2, thata3];
+thata = [thata1, thata2, thata3]        ;
 
 
-intersec_point = fn_trilateration(arm, thata) ;
+
+
+%% fine maximum point of workspaces
+
+intersec_point = fn_trilateration(arm, thata, r) ;
  
 zstep_size=((intersec_point(3)))/20;  %% define resolution
 
