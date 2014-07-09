@@ -1,10 +1,4 @@
 function [output] = fn_find_intersection_ws_2arm( base_r_size, eff_r_size,l11,l12,l21,l22,thata1,thata2)
-    clear all
-    clc
-    % Determine workspace of Delta Robot by Gossilin's method
-    % define Paramiter of Delta Robot 
-    % defind size of base & end-effect(e_eff) **base >= e_eff**
-
 
     base  =      base_r_size  ;
     e_eff =      eff_r_size   ;
@@ -21,13 +15,13 @@ function [output] = fn_find_intersection_ws_2arm( base_r_size, eff_r_size,l11,l1
 %% fine maximum hight point of workspaces
 for n=1:2
     
-    r_max(n)     = arm(1,n)+ arm(2,n) ;
-    origin(n,:) = [r *cosd(thata(n));r*sind(thata(n)); 0];
+    r_max(n)     =  arm(1,n)+ arm(2,n) ;
+    origin(n,:)  = [r *cosd(thata(n));r*sind(thata(n))]
       
 end
 
-    p1 = [0 ,0];
-    p2 = origin(2,:) - origin(1,:) ;
+ 
+    p2 = origin(2,:) - origin(1,:) 
 
         thata2=atand(p2(2)/p2(1)) ;
     Ro1=[   cosd(thata2)    -sind(thata2)   ;...
@@ -89,29 +83,9 @@ else
 end
 
 ellip2 = [ xs; ys ]   ;
-%%
-
-i=3;
-if arm(1,i) > arm(2,i)
-   if z <= (arm(1,i) - arm(2,i))
-       [xs, ys] = fn_case3_z_lessthan_l1minusl2 (arm, z, i);
-   else
-       [xs, ys] = fn_case4_z_morethan_l1minusl2 (arm, z, i);
-   end    
-else
-   if z <= (arm(2,i) - arm(1,i))
-       [xs, ys] = fn_case1_z_lessthan_l2minusl1 (arm, z, i);
-   else
-       [xs, ys] = fn_case2_z_morethan_l2minusl1 (arm, z, i);
-   end
-end
-
-ellip3 = [ xs; ys ]   ;
-%%
 
 
-
-%% Shift the origin ellip1 ellip2 & ellip3
+%% Shift the origin ellip1 ellip2 
 
 ss = size(ellip1);
 parfor i=1 : ss(2)    
@@ -123,10 +97,7 @@ parfor i=1 : ss(2)
 ellip2(:,i) = ellip2(:,i) + [r ; 0] ;
 end
 
-ss = size(ellip3);
-parfor i=1 : ss(2)    
-ellip3(:,i) = ellip3(:,i) + [r ; 0] ;    
-end
+
 
   
 %% rotate ellip1 ellip2 & ellip3 to thata1 thata2 & thata3 
@@ -142,17 +113,11 @@ parfor i=1 : ss(2)
 ellip2(:,i) = R2 * ellip2(:,i) ;
 end
 
-ss = size(ellip3);
-R3=[cosd(thata3) -sind(thata3) ; sind(thata3) cosd(thata3) ];
-parfor i=1 : ss(2)    
-ellip3(:,i) = R3 * ellip3(:,i) ;    
-end
 
 
 %% Intersection & area
 
-  [xin, yin] = polybool('intersection', ellip1(1,:),  ellip1(2,:),  ellip2(1,:), ellip2(2,:)) ;
-  [xin, yin] = polybool('intersection', xin, yin,  ellip3(1,:), ellip3(2,:)) ;
+  [xin, yin] = polybool('intersection', ellip1(1,:),  ellip1(2,:),  ellip2(1,:), ellip2(2,:)) 
 
   area  = polyarea(xin, yin) ;
   
@@ -222,9 +187,9 @@ indexz = indexz + 1 ;
 %% Reset data 
 
 
-clear ellip1 ellip2 ellip3 xin yin zin ...
-      x1 x2 x3 y1 y2 y3 z1 z2 z3 ...
-      xx1 xx2 xx3 yy1 yy2 yy3 zz1 zz2 zz3;
+clear ellip1 ellip2  xin yin zin ...
+      x1 x2 y1 y2 z1 z2 ...
+      xx1 xx2 yy1 yy2 zz1 zz2;
 end
 
 end
