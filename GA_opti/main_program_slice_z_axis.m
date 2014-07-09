@@ -17,14 +17,14 @@ r = base-e_eff   ;
 % sizes of   arms =    [ l11  l21  l31 ]   1 lower with eff
 %                      [ l12  l22  l32 ]   2 upper with motor
 
-l11 =    40         ;
-l12 =    20         ;
+l11 =    20         ;
+l12 =    40         ;
 
-l21 =    40         ;
-l22 =    20         ;
+l21 =    20         ;
+l22 =    40         ;
 
-l31 =    40         ;
-l32 =    20         ;
+l31 =    20         ;
+l32 =    40         ;
 
 % angle of Actuator Counter Clockwise
 thata1 =    0      ;
@@ -42,17 +42,17 @@ thata = [thata1, thata2, thata3]        ;
 
 
 
-%% fine maximum point of workspaces
+%% fine maximum hight point of workspaces
 
 intersec_point = fn_trilateration(arm, thata, r) ;
- 
-zstep_size=((intersec_point(3)))/20;  %% define resolution
+max_z = intersec_point(3) ;
+zstep_size=(max_z)/15;  %% define resolution
 
 %%
 
 
 indexz = 1 ;
-for z = 0 : zstep_size : zstep_size
+for z = 0 : zstep_size : max_z
 
 indexz    
     
