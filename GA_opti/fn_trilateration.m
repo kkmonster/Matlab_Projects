@@ -38,9 +38,9 @@ end
             sind(thata2)    cosd(thata2)    0 ;...
             0               0               1 ] ;
 
-    a1 = a1*Ro2 ;
-    a2 = a2*Ro2 ;
-    a3 = a3*Ro2 ;
+    a1 = a1 * Ro2 ;
+    a2 = a2 * Ro2 ;
+    a3 = a3 * Ro2 ;
 
     thata3=atand(a3(3)/a3(2)) ;
     Ro3=[   1   0               0 ;...
