@@ -25,194 +25,203 @@ thata2 =    180    ;
 x = fn_find_intersection_ws_2arm(base,e_eff ,l11,l12,l21,l22,thata1,thata2)
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+function [output] = fn_find_intersection_ws_2arm( base_r_size, eff_r_size,l11,l12,l21,l22,thata1,thata2)
+
+    base  =      base_r_size  ;
+    e_eff =      eff_r_size   ;
+
+    r = base-e_eff   ;
+
+    % memory in Matrix form
+
+    arm   = [l11, l21 ; l12, l22] ; 
+
+    thata = [thata1, thata2] ;
+
+
+%% fine maximum hight point of workspaces
+for n=1:2
+    
+    r_max(n)     =  arm(1,n)+ arm(2,n) ;
+    origin(n,:)  = [r *cosd(thata(n));r*sind(thata(n))]
+      
+end
+
+ 
+    p2 = origin(2,:) - origin(1,:) 
+
+        thata2=atand(p2(2)/p2(1)) ;
+    Ro1=[   cosd(thata2)    -sind(thata2)   ;...
+            sind(thata2)    cosd(thata2)    ] ;
+    
+    p2 = p2*Ro1 ;
+    
+    x_intersec = (p2(1)^2+r_max(2)^2-r_max(1)^2)/2/p2(1);
+    
+    z_intersec = (r_max(1)^2 -x_intersec^2)^0.5 ;
+    
+    max_z = z_intersec ;
+
+
+%% define resolution
+
+    zstep_size=(max_z)/15;  
+
+%%
+
+indexz = 1 ;
+for z = 0 : zstep_size : max_z
+    
+
+indexz    
+    
+i=1;
+if arm(1,i) > arm(2,i)
+   if z <= (arm(1,i) - arm(2,i))
+       [xs, ys] = fn_case3_z_lessthan_l1minusl2 (arm, z, i);
+   else
+       [xs, ys] = fn_case4_z_morethan_l1minusl2 (arm, z, i);
+   end    
+else
+   if z <= (arm(2,i) - arm(1,i))
+       [xs, ys] = fn_case1_z_lessthan_l2minusl1 (arm, z, i);
+   else
+       [xs, ys] = fn_case2_z_morethan_l2minusl1 (arm, z, i);
+   end
+end
+
+ellip1 = [ xs; ys ]   ;
+
+%%
+
+i=2;
+if arm(1,i) > arm(2,i)
+   if z <= (arm(1,i) - arm(2,i))
+       [xs, ys] = fn_case3_z_lessthan_l1minusl2 (arm, z, i);
+   else
+       [xs, ys] = fn_case4_z_morethan_l1minusl2 (arm, z, i);
+   end    
+else
+   if z <= (arm(2,i) - arm(1,i))
+       [xs, ys] = fn_case1_z_lessthan_l2minusl1 (arm, z, i);
+   else
+       [xs, ys] = fn_case2_z_morethan_l2minusl1 (arm, z, i);
+   end
+end
+
+ellip2 = [ xs; ys ]   ;
+
+
+%% Shift the origin ellip1 ellip2 
+
+ss = size(ellip1);
+parfor i=1 : ss(2)    
+ellip1(:,i) = ellip1(:,i) + [r ; 0] ;
+end
+
+ss = size(ellip2);
+parfor i=1 : ss(2)    
+ellip2(:,i) = ellip2(:,i) + [r ; 0] ;
+end
 
 
 
+  
+%% rotate ellip1 ellip2 & ellip3 to thata1 thata2 & thata3 
+ss = size(ellip1);
+R1=[cosd(thata1) -sind(thata1) ; sind(thata1) cosd(thata1) ];
+parfor i=1 : ss(2)    
+ellip1(:,i) = R1 * ellip1(:,i) ;
+end
 
+ss = size(ellip2);
+R2=[cosd(thata2) -sind(thata2) ; sind(thata2) cosd(thata2) ];
+parfor i=1 : ss(2)    
+ellip2(:,i) = R2 * ellip2(:,i) ;
+end
+
+
+
+%% Intersection & area
+
+  [xin, yin] = polybool('intersection', ellip1(1,:),  ellip1(2,:),  ellip2(1,:), ellip2(2,:)) 
+
+  area  = polyarea(xin, yin) ;
+  
+  %% split matrix if have NaN number
+  
+  if isnan(area)
+  aa = find((isnan(xin)));
+  ss = size(xin) ;
+  aa = [0 aa (ss(2)+1)];
+  ss = size(aa) ;
+  for k = 1:1:(ss(2)-1)
+      area(k) = polyarea(xin((aa(k)+1):(aa(k+1)-1)), yin(:,(aa(k)+1):(aa(k+1)-1))) ;
+  end
+  area=sum(area) ;
+  end
+  ss = size(xin) ;
+  if ss(2)>0
+    for index = 1: 1 : ss(2)
+    zin(index) = z ;
+    end
+  else
+      zin = [];
+  end
+  
+ 
+  
+%% show datas
+
+figure(1)
+ axis equal, hold on
+ 
+ 
+% plot3(x1, y1, z1, ':c')
+% plot3(x2, y2, z2, ':m')
+% plot3(x3, y3, z3, ':g')
 % 
-% %  function [ po ] = fn_trilateration(arm, thata)
-% %       รับอินพุทเป็น ตำแหน่งจุดศูนย์กลาง และรัศมีของทรงกลม 3 ลูกเเพื่อ
-% %       หาจุดตัดกัน
-% %   Detailed explanation goes here
-% 
-% 
-% for n=1:3
+%   if (arm(1,1) > arm(2,1))&&(z < (arm(1,1) - arm(2,1)))
+%   plot3(xx1, yy1, zz1, ':c')    
+%   end
+%   
+%   if (arm(1,2) > arm(2,2))&&(z < (arm(1,2) - arm(2,2)))
+%   plot3(xx2, yy2, zz2, ':m')      
+%   end
 %     
-%     r_max(n)     = arm(1,n)+ arm(2,n) ;
-%     origin(n,:) = [r_max(n) *cosd(thata(n)); r_max(n) *sind(thata(n)); 0];
-%       
-% end
-% 
-% l1=r_max(1) ;
-% l2=r_max(2) ;
-% l3=r_max(3) ;
-% p1=origin(1,:) ; 
-% p2=origin(2,:) ;
-% p3=origin(3,:) ;
-% 
-% a1 = p1-p1 
-% a2 = p2-p1 
-% a3 = p3-p1 
-% 
-% 
-% thata1=-atand(a2(3)/a2(1)) ;
-% Ro1=[   cosd(thata1)    0   sind(thata1) ;...
-%         0               1   0 ;...
-%         -sind(thata1)   0   cosd(thata1) ] ;
-% 
-% a1 = a1*Ro1 
-% a2 = a2*Ro1 
-% a3 = a3*Ro1 
-% 
-% thata2=atand(a2(2)/a2(1)) ;
-% Ro2=[   cosd(thata2)    -sind(thata2)   0 ;...
-%         sind(thata2)    cosd(thata2)    0 ;...
-%         0               0               1 ] ;
-% 
-% a1 = a1*Ro2 
-% a2 = a2*Ro2 
-% a3 = a3*Ro2 
-% 
-% thata3=atand(a3(3)/a3(2)) ;
-% Ro3=[   1   0               0 ;...
-%         0   cosd(thata3)    -sind(thata3) ;...
-%         0   sind(thata3)    cosd(thata3) ] ;
-% 
-% a1 = a1*Ro3 
-% a2 = a2*Ro3 
-% a3 = a3*Ro3 
-% 
-% 
-% x = (l1^2-l2^2+a2(1)^2)/(2*a2(1)) ;
-% 
-% y = (l1^2-l3^2+a3(1)^2+a3(2)^2)/(2*a3(2)) - (a3(1))/(a3(2))* x ;
-% 
-% z = (l1^2-x^2-y^2)^0.5 ;
-% 
-% intersect = [x y z]*Ro3'*Ro2'*Ro1'+ p1 ;
-% 
-% po = intersect'
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% % end
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% % clc ;
-% % clear all ;
-% % xxx = [];
-% % yyy = [];
-% % 
-% % %% Test function
-% % % sizes of   arms =    [ l11  l21  l31 ]   1 lower with eff
-% % %                      [ l12  l22  l32 ]   2 upper with motor
-% % ss ;
-% % 
-% % l11 =    10        ;
-% % l12 =    20         ;
-% % 
-% % l21 =    10        ;
-% % l22 =    20         ;
-% % 
-% % l31 =    10       ;
-% % l32 =    20         ;
-% % 
-% % % memory in Matrix form
-% % arm = [l11, l21, l31; l12, l22, l32 ]; 
-% % %%/////////////////////////////////////////////////////////////////////
-% % 
-% % i=1;
-% % ss ;
-% % 
-% % index_z = 1 ;
-% % 
-% %     for z= 0 : 1 :10
-% %        
-% %        
-% %     syms y ;
-% %         
-% %     l1 = 10;
-% %     l2 = 20 ; 
-% %     
-% %     a = -((l2 + l1)^2-z^2)^0.5    ;
-% %     b = -((l2 - l1)^2-z^2)^0.5    ;
-% %    
-% %         index = 1 ;
-% %         for xx          = 0 : 1 : 180
-% %             
-% %             x  =(a+b)/2 + (a-b)/2*cosd(xx);
-% %             
-% %                 if (xx == 0) || (xx == 180)
-% %                    
-% %                     ys(index)   = 0        ;
-% %                     xs(index)   = x        ;
-% %                     
-% %                 else
-% % 
-% %                     ss          = solve(l1^4 - 2*l1^2*l2^2 + l2^4 + x^4 - 2*l1^2*y^2 + ...
-% %                                 2*l2^2*y^2 + y^4 - 2*l1^2*z^2 - 2*l2^2*z^2 + 2*y^2*z^2 +...
-% %                                 z^4 + x^2*(-2*l1^2 - 2*l2^2 + 2*y^2 + 2*z^2) == 0 ,'real',true )  ;
-% %                     ss          = vpa(ss,4); 
-% %                     ss          = sort(ss,1,'descend');
-% % 
-% %                     ys(index)   = ss(1)  ;
-% %                     xs(index)   = x      ;
-% %                   
-% %                 end
-% %             index = index + 1 ;
-% %         end
-% % 
-% %         ys = [ -(fliplr(ys)) ys] ;
-% %         xs = [   fliplr(xs)  xs] ;
-% %         
-% %         parfor (n = 1 : 1 : 362)
-% %         	zs(n) = z   ; 
-% %         end
-% % 
-% %         xs = double(xs)   ;
-% %         ys = double(ys)   ;
-% %         zs = double(zs)   ;
-% % 
-% %         
-% %         
-% % 
-% %         
-% %         zzz(index_z,:) = zs  ;
-% %         index_z = index_z+1  ;
-% %  
-% %         clear zs ys xs ;
-% %         
-% %         plot_matrix(xxx,yyy,zzz)
-% %     end
-% %     
-% % 
-% % 
-% % %% End
+%   if (arm(1,3) > arm(2,3))&&(z < (arm(1,3) - arm(2,3)))
+%   plot3(xx3, yy3, zz3, ':g')        
+%   end
+
+
+plot3(xin, yin, zin, 'b')
+
+
+if area > 0
+    
+else 
+    area=0;
+end
+
+sumarea(indexz) = area;
+
+indexz = indexz + 1 ;
+
+
+
+
+
+%% Reset data 
+
+
+clear ellip1 ellip2  xin yin zin ...
+      x1 x2 y1 y2 z1 z2 ...
+      xx1 xx2 yy1 yy2 zz1 zz2;
+end
+
+end
+
+
+
