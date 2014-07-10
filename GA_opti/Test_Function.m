@@ -27,7 +27,7 @@ x = fn_find_intersection_ws_2arm(base,e_eff ,l11,l12,l21,l22,thata1,thata2)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function [output] = fn_find_intersection_ws_2arm( base_r_size, eff_r_size,l11,l12,l21,l22,thata1,thata2)
+% function [output] = fn_find_intersection_ws_2arm( base_r_size, eff_r_size,l11,l12,l21,l22,thata1,thata2)
 
     base  =      base_r_size  ;
     e_eff =      eff_r_size   ;
@@ -221,7 +221,7 @@ clear ellip1 ellip2  xin yin zin ...
       xx1 xx2 yy1 yy2 zz1 zz2;
 end
 
-end
+% end
 
 
 
