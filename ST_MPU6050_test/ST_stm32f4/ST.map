@@ -1,0 +1,1817 @@
+Archive member included because of file (symbol)
+
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                              st.o (__aeabi_f2d)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memcpy.o)
+                              waijung_hwdrvlib.o (memcpy)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reent.o)
+                              syscalls.o (errno)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+                              st.o (sprintf)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strlen.o)
+                              st.o (strlen)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o) (_svfprintf_r)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o) (_dtoa_r)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reent.o) (_free_r)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reent.o) (_impure_ptr)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o) (_localeconv_r)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o) (_malloc_r)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memchr-stub.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o) (memchr)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mlock.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o) (__malloc_lock)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o) (_Balloc)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-s_fpclassify.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o) (__fpclassifyd)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sbrkr.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o) (_sbrk_r)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strcmp.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o) (strcmp)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o) (__ssprint_r)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-callocr.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o) (_calloc_r)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memmove.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o) (memmove)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memset.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-callocr.o) (memset)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o) (_realloc_r)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o) (__aeabi_dmul)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o) (__aeabi_dcmpeq)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o) (__aeabi_d2iz)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o) (__aeabi_uldivmod)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(bpabi.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_divdi3.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(bpabi.o) (__divdi3)
+c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_udivdi3.o)
+                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(bpabi.o) (__udivdi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+I2CMasterReadWrite_f_RBuffer
+                    0x1               waijung_hwdrvlib.o
+I2CMasterReadWrite1_f_RBuffer
+                    0x1               waijung_hwdrvlib.o
+I2CMasterReadWrite2_WBuffer
+                    0x1               waijung_hwdrvlib.o
+I2CMasterReadWrite2
+                    0x14              waijung_hwdrvlib.o
+I2CMasterReadWrite1_f_WBuffer
+                    0x1               waijung_hwdrvlib.o
+errno               0x4               c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reent.o)
+I2CMasterReadWrite_f_WBuffer
+                    0x1               waijung_hwdrvlib.o
+I2CMasterReadWrite4_e_WBuffer
+                    0x1               waijung_hwdrvlib.o
+I2CMasterReadWrite  0x14              waijung_hwdrvlib.o
+I2CMasterReadWrite2_g_WBuffer
+                    0x1               waijung_hwdrvlib.o
+i2c_processing_timer
+                    0x10              waijung_hwdrvlib.o
+I2CMasterReadWrite4_e_RBuffer
+                    0x1               waijung_hwdrvlib.o
+I2CMasterReadWrite3_g_RBuffer
+                    0x1               waijung_hwdrvlib.o
+I2CMasterReadWrite4
+                    0x14              waijung_hwdrvlib.o
+I2CMasterReadWrite2_RBuffer
+                    0x1               waijung_hwdrvlib.o
+I2CMasterReadWrite2_m
+                    0x14              waijung_hwdrvlib.o
+I2CMasterReadWrite3_g_WBuffer
+                    0x1               waijung_hwdrvlib.o
+I2CMasterReadWrite4_RBuffer
+                    0x1               waijung_hwdrvlib.o
+I2CMasterReadWrite_f
+                    0x14              waijung_hwdrvlib.o
+I2CMasterReadWrite1
+                    0x14              waijung_hwdrvlib.o
+I2CMasterReadWrite3_RBuffer
+                    0x1               waijung_hwdrvlib.o
+I2CMasterReadWrite5_RBuffer
+                    0x1               waijung_hwdrvlib.o
+I2CMasterReadWrite3_g
+                    0x14              waijung_hwdrvlib.o
+UART2_Tx_Buffer     0x200             waijung_hwdrvlib.o
+I2CMasterReadWrite_WBuffer
+                    0x2               waijung_hwdrvlib.o
+I2CMasterReadWrite1_WBuffer
+                    0x2               waijung_hwdrvlib.o
+I2CMasterReadWrite3_WBuffer
+                    0x1               waijung_hwdrvlib.o
+st_M_               0x8               st.o
+UARTSetup_Tx_State  0x1               waijung_hwdrvlib.o
+I2CMasterReadWrite3
+                    0x14              waijung_hwdrvlib.o
+I2CMasterReadWrite4_WBuffer
+                    0x1               waijung_hwdrvlib.o
+I2CMasterReadWrite5_WBuffer
+                    0x1               waijung_hwdrvlib.o
+st_DWork            0x3               st.o
+I2CMasterReadWrite5
+                    0x14              waijung_hwdrvlib.o
+I2CMasterReadWrite2_g_RBuffer
+                    0x1               waijung_hwdrvlib.o
+I2CMasterReadWrite2_g
+                    0x14              waijung_hwdrvlib.o
+I2CMasterReadWrite1_f
+                    0x14              waijung_hwdrvlib.o
+UARTSetup_DMA_Init  0x3c              waijung_hwdrvlib.o
+st_B                0x28              st.o
+I2CMasterReadWrite2_m_WBuffer
+                    0x2               waijung_hwdrvlib.o
+I2CMasterReadWrite4_e
+                    0x14              waijung_hwdrvlib.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00100000         xr
+RAM              0x20000000         0x0001c000         xrw
+AUX_RAM          0x2001c000         0x00004000         xrw
+CCM_RAM          0x10000000         0x00010000         rw
+BKP_RAM          0x40024000         0x00001000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD startup_stm32f4xx.o
+LOAD stm32f4xx_syscfg.o
+LOAD stm32f4xx_it.o
+LOAD stm32f4xx_pwr.o
+LOAD stm32f4xx_rcc.o
+LOAD stm32f4xx_usart.o
+LOAD system_stm32f4xx.o
+LOAD st_data.o
+LOAD stm32f4xx_dma.o
+LOAD misc.o
+LOAD st.o
+LOAD waijung_hwdrvlib.o
+LOAD stm32f4xx_i2c.o
+LOAD syscalls.o
+LOAD main.o
+LOAD stm32f4xx_gpio.o
+LOAD c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libstdc++.a
+LOAD c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a
+START GROUP
+LOAD c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a
+LOAD c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a
+LOAD c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a
+END GROUP
+
+.text           0x08000000     0x9038
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 startup_stm32f4xx.o
+                0x08000000                __isr_vector
+ *(.text*)
+ .text          0x08000188      0x104 startup_stm32f4xx.o
+                0x08000188                Reset_Handler
+                0x080001e6                WWDG_IRQHandler
+                0x080001e8                PVD_IRQHandler
+                0x080001ea                TAMP_STAMP_IRQHandler
+                0x080001ec                RTC_WKUP_IRQHandler
+                0x080001ee                FLASH_IRQHandler
+                0x080001f0                RCC_IRQHandler
+                0x080001f2                EXTI0_IRQHandler
+                0x080001f4                EXTI1_IRQHandler
+                0x080001f6                EXTI2_IRQHandler
+                0x080001f8                EXTI3_IRQHandler
+                0x080001fa                EXTI4_IRQHandler
+                0x080001fc                DMA1_Stream0_IRQHandler
+                0x080001fe                DMA1_Stream1_IRQHandler
+                0x08000200                DMA1_Stream2_IRQHandler
+                0x08000202                DMA1_Stream3_IRQHandler
+                0x08000204                DMA1_Stream4_IRQHandler
+                0x08000206                DMA1_Stream5_IRQHandler
+                0x08000208                DMA1_Stream6_IRQHandler
+                0x0800020a                ADC_IRQHandler
+                0x0800020c                CAN1_TX_IRQHandler
+                0x0800020e                CAN1_RX0_IRQHandler
+                0x08000210                CAN1_RX1_IRQHandler
+                0x08000212                CAN1_SCE_IRQHandler
+                0x08000214                EXTI9_5_IRQHandler
+                0x08000216                TIM1_BRK_TIM9_IRQHandler
+                0x08000218                TIM1_UP_TIM10_IRQHandler
+                0x0800021a                TIM1_TRG_COM_TIM11_IRQHandler
+                0x0800021c                TIM1_CC_IRQHandler
+                0x0800021e                TIM2_IRQHandler
+                0x08000220                TIM3_IRQHandler
+                0x08000222                TIM4_IRQHandler
+                0x08000224                I2C1_EV_IRQHandler
+                0x08000226                I2C1_ER_IRQHandler
+                0x08000228                I2C2_EV_IRQHandler
+                0x0800022a                I2C2_ER_IRQHandler
+                0x0800022c                SPI1_IRQHandler
+                0x0800022e                SPI2_IRQHandler
+                0x08000230                USART1_IRQHandler
+                0x08000232                USART2_IRQHandler
+                0x08000234                USART3_IRQHandler
+                0x08000236                EXTI15_10_IRQHandler
+                0x08000238                RTC_Alarm_IRQHandler
+                0x0800023a                OTG_FS_WKUP_IRQHandler
+                0x0800023c                TIM8_BRK_TIM12_IRQHandler
+                0x0800023e                TIM8_UP_TIM13_IRQHandler
+                0x08000240                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08000242                TIM8_CC_IRQHandler
+                0x08000244                DMA1_Stream7_IRQHandler
+                0x08000246                FSMC_IRQHandler
+                0x08000248                SDIO_IRQHandler
+                0x0800024a                TIM5_IRQHandler
+                0x0800024c                SPI3_IRQHandler
+                0x0800024e                UART4_IRQHandler
+                0x08000250                UART5_IRQHandler
+                0x08000252                TIM6_DAC_IRQHandler
+                0x08000254                TIM7_IRQHandler
+                0x08000256                DMA2_Stream0_IRQHandler
+                0x08000258                DMA2_Stream1_IRQHandler
+                0x0800025a                DMA2_Stream2_IRQHandler
+                0x0800025c                DMA2_Stream3_IRQHandler
+                0x0800025e                DMA2_Stream4_IRQHandler
+                0x08000260                ETH_IRQHandler
+                0x08000262                ETH_WKUP_IRQHandler
+                0x08000264                CAN2_TX_IRQHandler
+                0x08000266                CAN2_RX0_IRQHandler
+                0x08000268                CAN2_RX1_IRQHandler
+                0x0800026a                CAN2_SCE_IRQHandler
+                0x0800026c                OTG_FS_IRQHandler
+                0x0800026e                DMA2_Stream5_IRQHandler
+                0x08000270                DMA2_Stream6_IRQHandler
+                0x08000272                DMA2_Stream7_IRQHandler
+                0x08000274                USART6_IRQHandler
+                0x08000276                I2C3_EV_IRQHandler
+                0x08000278                I2C3_ER_IRQHandler
+                0x0800027a                OTG_HS_EP1_OUT_IRQHandler
+                0x0800027c                OTG_HS_EP1_IN_IRQHandler
+                0x0800027e                OTG_HS_WKUP_IRQHandler
+                0x08000280                OTG_HS_IRQHandler
+                0x08000282                DCMI_IRQHandler
+                0x08000284                CRYP_IRQHandler
+                0x08000286                HASH_RNG_IRQHandler
+                0x08000288                FPU_IRQHandler
+ .text          0x0800028c       0x80 stm32f4xx_syscfg.o
+                0x0800028c                SYSCFG_DeInit
+                0x080002a8                SYSCFG_MemoryRemapConfig
+                0x080002b4                SYSCFG_EXTILineConfig
+                0x080002e4                SYSCFG_ETH_MediaInterfaceConfig
+                0x080002f0                SYSCFG_CompensationCellCmd
+                0x080002fc                SYSCFG_GetCompensationCellStatus
+ .text          0x0800030c       0x48 stm32f4xx_it.o
+                0x0800030c                NMI_Handler
+                0x08000310                HardFault_Handler
+                0x08000328                MemManage_Handler
+                0x0800032c                BusFault_Handler
+                0x08000344                UsageFault_Handler
+                0x08000348                SVC_Handler
+                0x0800034c                DebugMon_Handler
+                0x08000350                PendSV_Handler
+ .text          0x08000354      0x110 stm32f4xx_pwr.o
+                0x08000354                PWR_DeInit
+                0x08000370                PWR_BackupAccessCmd
+                0x0800037c                PWR_PVDLevelConfig
+                0x08000390                PWR_PVDCmd
+                0x0800039c                PWR_WakeUpPinCmd
+                0x080003a8                PWR_BackupRegulatorCmd
+                0x080003b4                PWR_MainRegulatorModeConfig
+                0x080003d0                PWR_FlashPowerDownCmd
+                0x080003dc                PWR_EnterSTOPMode
+                0x08000418                PWR_EnterSTANDBYMode
+                0x08000440                PWR_GetFlagStatus
+                0x08000454                PWR_ClearFlag
+ .text          0x08000464      0x474 stm32f4xx_rcc.o
+                0x08000464                RCC_DeInit
+                0x08000498                RCC_HSEConfig
+                0x080004a8                RCC_WaitForHSEStartUp
+                0x080004e0                RCC_AdjustHSICalibrationValue
+                0x080004f4                RCC_HSICmd
+                0x08000500                RCC_LSEConfig
+                0x08000520                RCC_LSICmd
+                0x0800052c                RCC_PLLConfig
+                0x08000550                RCC_PLLCmd
+                0x0800055c                RCC_PLLI2SConfig
+                0x08000570                RCC_PLLI2SCmd
+                0x0800057c                RCC_ClockSecuritySystemCmd
+                0x08000588                RCC_MCO1Config
+                0x0800059c                RCC_MCO2Config
+                0x080005b0                RCC_SYSCLKConfig
+                0x080005c4                RCC_GetSYSCLKSource
+                0x080005d4                RCC_HCLKConfig
+                0x080005e8                RCC_PCLK1Config
+                0x080005fc                RCC_PCLK2Config
+                0x08000610                RCC_GetClocksFreq
+                0x080006a0                RCC_RTCCLKConfig
+                0x080006d0                RCC_RTCCLKCmd
+                0x080006dc                RCC_BackupResetCmd
+                0x080006e8                RCC_I2SCLKConfig
+                0x080006f4                RCC_AHB1PeriphClockCmd
+                0x0800070c                RCC_AHB2PeriphClockCmd
+                0x08000724                RCC_AHB3PeriphClockCmd
+                0x0800073c                RCC_APB1PeriphClockCmd
+                0x08000754                RCC_APB2PeriphClockCmd
+                0x0800076c                RCC_AHB1PeriphResetCmd
+                0x08000784                RCC_AHB2PeriphResetCmd
+                0x0800079c                RCC_AHB3PeriphResetCmd
+                0x080007b4                RCC_APB1PeriphResetCmd
+                0x080007cc                RCC_APB2PeriphResetCmd
+                0x080007e4                RCC_AHB1PeriphClockLPModeCmd
+                0x080007fc                RCC_AHB2PeriphClockLPModeCmd
+                0x08000814                RCC_AHB3PeriphClockLPModeCmd
+                0x0800082c                RCC_APB1PeriphClockLPModeCmd
+                0x08000844                RCC_APB2PeriphClockLPModeCmd
+                0x0800085c                RCC_ITConfig
+                0x08000874                RCC_GetFlagStatus
+                0x080008a8                RCC_ClearFlag
+                0x080008b8                RCC_GetITStatus
+                0x080008cc                RCC_ClearITPendingBit
+ .text          0x080008d8      0x434 stm32f4xx_usart.o
+                0x080008d8                USART_DeInit
+                0x080009a0                USART_Init
+                0x08000a64                USART_StructInit
+                0x08000a7c                USART_ClockInit
+                0x08000aa0                USART_ClockStructInit
+                0x08000aac                USART_Cmd
+                0x08000ac8                USART_SetPrescaler
+                0x08000adc                USART_OverSampling8Cmd
+                0x08000af8                USART_OneBitMethodCmd
+                0x08000b14                USART_SendData
+                0x08000b1c                USART_ReceiveData
+                0x08000b24                USART_SetAddress
+                0x08000b3c                USART_ReceiverWakeUpCmd
+                0x08000b58                USART_WakeUpConfig
+                0x08000b70                USART_LINBreakDetectLengthConfig
+                0x08000b88                USART_LINCmd
+                0x08000ba4                USART_SendBreak
+                0x08000bb0                USART_HalfDuplexCmd
+                0x08000bcc                USART_SetGuardTime
+                0x08000be0                USART_SmartCardCmd
+                0x08000bfc                USART_SmartCardNACKCmd
+                0x08000c18                USART_IrDAConfig
+                0x08000c30                USART_IrDACmd
+                0x08000c4c                USART_DMACmd
+                0x08000c60                USART_ITConfig
+                0x08000c9c                USART_GetFlagStatus
+                0x08000ca8                USART_ClearFlag
+                0x08000cb0                USART_GetITStatus
+                0x08000cfc                USART_ClearITPendingBit
+ .text          0x08000d0c      0x168 system_stm32f4xx.o
+                0x08000d0c                SystemInit
+                0x08000e0c                SystemCoreClockUpdate
+ .text          0x08000e74        0x0 st_data.o
+ .text          0x08000e74      0x394 stm32f4xx_dma.o
+                0x08000e74                DMA_DeInit
+                0x08000fa4                DMA_Init
+                0x08001014                DMA_StructInit
+                0x08001038                DMA_Cmd
+                0x0800104c                DMA_PeriphIncOffsetSizeConfig
+                0x08001060                DMA_FlowControllerConfig
+                0x08001074                DMA_SetCurrDataCounter
+                0x08001078                DMA_GetCurrDataCounter
+                0x08001080                DMA_DoubleBufferModeConfig
+                0x08001098                DMA_DoubleBufferModeCmd
+                0x080010ac                DMA_MemoryTargetConfig
+                0x080010b8                DMA_GetCurrentMemoryTarget
+                0x080010c0                DMA_GetCmdStatus
+                0x080010c8                DMA_GetFIFOStatus
+                0x080010d0                DMA_GetFlagStatus
+                0x0800110c                DMA_ClearFlag
+                0x08001140                DMA_ITConfig
+                0x08001180                DMA_GetITStatus
+                0x080011d4                DMA_ClearITPendingBit
+ .text          0x08001208       0xd0 misc.o
+                0x08001208                NVIC_PriorityGroupConfig
+                0x0800121c                NVIC_Init
+                0x08001294                NVIC_SetVectorTable
+                0x080012a8                NVIC_SystemLPConfig
+                0x080012c0                SysTick_CLKSourceConfig
+ .text          0x080012d8      0x3b8 st.o
+                0x080012d8                st_step
+                0x08001608                st_initialize
+                0x0800168c                st_terminate
+ .text          0x08001690     0x13f0 waijung_hwdrvlib.o
+                0x0800170c                enable_FailUARTTx
+                0x08001710                i2c_trans_proc
+                0x08002264                enable_L3G4200DInitL3G4200DI2CMasterReadWrite
+                0x08002284                enable_L3G4200DInitL3G4200DI2CMasterReadWrite1
+                0x080022a4                enable_L3G4200DInitL3G4200DI2CMasterReadWrite2
+                0x080022c4                enable_L3G4200DReadL3G4200DI2CMasterReadWrite
+                0x080022e8                enable_L3G4200DReadL3G4200DI2CMasterReadWrite1
+                0x0800230c                enable_L3G4200DReadL3G4200DI2CMasterReadWrite2
+                0x08002330                enable_L3G4200DReadL3G4200DI2CMasterReadWrite3
+                0x08002354                enable_L3G4200DReadL3G4200DI2CMasterReadWrite4
+                0x08002378                enable_L3G4200DReadL3G4200DI2CMasterReadWrite5
+                0x0800239c                enable_SuccessUARTTx
+                0x080023a0                UART2_FlushTxBuffer
+                0x080023f8                UART2_Write
+                0x08002490                UART2_TxUpdate
+                0x08002518                enable_UARTSetup
+                0x08002604                SysTimer_Start
+                0x0800262c                SysTimer_IsTimeout
+                0x0800264c                SysTimer_uS_Start
+                0x08002670                SysTimer_uS_IsTimeout
+                0x080026e0                SysTimer_delay_us
+                0x08002738                SysTimer_delay_ms
+                0x08002780                enable_L3G4200DGetInitL3G4200D1I2CMasterReadWrite2
+                0x080027a4                enable_L3G4200DGetInitL3G4200D1I2CMasterReadWrite3
+                0x080027c8                enable_L3G4200DGetInitL3G4200D1I2CMasterReadWrite4
+                0x080027ec                enable_I2CMasterSetup
+                0x080028bc                i2c1_trans_proc
+                0x08002a14                disable_I2CMasterSetup
+ .text          0x08002a80      0x450 stm32f4xx_i2c.o
+                0x08002a80                I2C_DeInit
+                0x08002aec                I2C_Init
+                0x08002bcc                I2C_StructInit
+                0x08002bf0                I2C_Cmd
+                0x08002c0c                I2C_GenerateSTART
+                0x08002c28                I2C_GenerateSTOP
+                0x08002c44                I2C_Send7bitAddress
+                0x08002c58                I2C_AcknowledgeConfig
+                0x08002c74                I2C_OwnAddress2Config
+                0x08002c88                I2C_DualAddressCmd
+                0x08002ca4                I2C_GeneralCallCmd
+                0x08002cc0                I2C_SoftwareResetCmd
+                0x08002cdc                I2C_StretchClockCmd
+                0x08002cf8                I2C_FastModeDutyCycleConfig
+                0x08002d18                I2C_NACKPositionConfig
+                0x08002d38                I2C_SMBusAlertConfig
+                0x08002d58                I2C_ARPCmd
+                0x08002d74                I2C_SendData
+                0x08002d78                I2C_ReceiveData
+                0x08002d80                I2C_TransmitPEC
+                0x08002d9c                I2C_PECPositionConfig
+                0x08002dbc                I2C_CalculatePEC
+                0x08002dd8                I2C_GetPEC
+                0x08002de0                I2C_DMACmd
+                0x08002dfc                I2C_DMALastTransferCmd
+                0x08002e18                I2C_ReadRegister
+                0x08002e30                I2C_ITConfig
+                0x08002e44                I2C_CheckEvent
+                0x08002e5c                I2C_GetLastEvent
+                0x08002e6c                I2C_GetFlagStatus
+                0x08002ea4                I2C_ClearFlag
+                0x08002eac                I2C_GetITStatus
+                0x08002ec8                I2C_ClearITPendingBit
+ .text          0x08002ed0       0xd8 syscalls.o
+                0x08002ed0                _exit
+                0x08002ed4                _close
+                0x08002edc                _execve
+                0x08002eec                _fork
+                0x08002efc                _fstat
+                0x08002f08                _getpid
+                0x08002f0c                _isatty
+                0x08002f10                _kill
+                0x08002f20                _link
+                0x08002f30                _lseek
+                0x08002f34                _sbrk
+                0x08002f74                _read
+                0x08002f78                _stat
+                0x08002f84                _unlink
+                0x08002f94                _wait
+                0x08002fa4                _write
+ .text          0x08002fa8       0x20 main.o
+                0x08002fa8                rt_OneStep
+                0x08002fb8                SysTick_Handler
+ .text.startup  0x08002fc8       0x4c main.o
+                0x08002fc8                main
+ .text          0x08003014      0x280 stm32f4xx_gpio.o
+                0x08003014                GPIO_DeInit
+                0x0800312c                GPIO_Init
+                0x080031ec                GPIO_StructInit
+                0x08003200                GPIO_PinLockConfig
+                0x08003224                GPIO_ReadInputDataBit
+                0x08003230                GPIO_ReadInputData
+                0x08003238                GPIO_ReadOutputDataBit
+                0x08003244                GPIO_ReadOutputData
+                0x0800324c                GPIO_SetBits
+                0x08003250                GPIO_ResetBits
+                0x08003254                GPIO_WriteBit
+                0x08003260                GPIO_Write
+                0x08003264                GPIO_ToggleBits
+                0x0800326c                GPIO_PinAFConfig
+ .text          0x08003294      0x370 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                0x08003294                __aeabi_drsub
+                0x0800329c                __aeabi_dsub
+                0x0800329c                __subdf3
+                0x080032a0                __aeabi_dadd
+                0x080032a0                __adddf3
+                0x08003518                __floatunsidf
+                0x08003518                __aeabi_ui2d
+                0x08003538                __floatsidf
+                0x08003538                __aeabi_i2d
+                0x0800355c                __aeabi_f2d
+                0x0800355c                __extendsfdf2
+                0x08003598                __floatundidf
+                0x08003598                __aeabi_ul2d
+                0x080035a8                __floatdidf
+                0x080035a8                __aeabi_l2d
+ .text          0x08003604      0x134 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memcpy.o)
+                0x08003604                memcpy
+ .text          0x08003738        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x08003738       0x1c c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reent.o)
+                0x08003738                cleanup_glue
+ .text._reclaim_reent
+                0x08003754       0x90 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reent.o)
+                0x08003754                _reclaim_reent
+ .text          0x080037e4        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+ .text._sprintf_r
+                0x080037e4       0x44 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+                0x080037e4                _sprintf_r
+ .text.sprintf  0x08003828       0x4c c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+                0x08003828                sprintf
+ .text          0x08003874        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strlen.o)
+ .text.strlen   0x08003874       0x60 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strlen.o)
+                0x08003874                strlen
+ .text          0x080038d4        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+ *fill*         0x080038d4        0x4 
+ .text._svfprintf_r
+                0x080038d8     0x14f0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+                0x080038d8                _svfprintf_r
+ .text          0x08004dc8        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+ .text.quorem   0x08004dc8      0x130 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+ .text._dtoa_r  0x08004ef8      0xe58 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+                0x08004ef8                _dtoa_r
+ .text          0x08005d50        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+ .text._malloc_trim_r
+                0x08005d50       0x9c c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+                0x08005d50                _malloc_trim_r
+ .text._free_r  0x08005dec      0x19c c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+                0x08005dec                _free_r
+ .text          0x08005f88        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+ .text          0x08005f88        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x08005f88       0x40 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+                0x08005f88                _setlocale_r
+ .text.__locale_charset
+                0x08005fc8        0x8 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+                0x08005fc8                __locale_charset
+ .text.__locale_mb_cur_max
+                0x08005fd0        0xc c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+                0x08005fd0                __locale_mb_cur_max
+ .text.__locale_msgcharset
+                0x08005fdc        0x8 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+                0x08005fdc                __locale_msgcharset
+ .text.__locale_cjk_lang
+                0x08005fe4        0x4 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+                0x08005fe4                __locale_cjk_lang
+ .text._localeconv_r
+                0x08005fe8        0x8 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+                0x08005fe8                _localeconv_r
+ .text.setlocale
+                0x08005ff0       0x10 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+                0x08005ff0                setlocale
+ .text.localeconv
+                0x08006000        0x8 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+                0x08006000                localeconv
+ .text          0x08006008        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x08006008      0x538 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                0x08006008                _malloc_r
+ .text          0x08006540        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memchr-stub.o)
+ .text.memchr   0x08006540       0x90 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memchr-stub.o)
+                0x08006540                memchr
+ .text          0x080065d0        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x080065d0        0x4 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mlock.o)
+                0x080065d0                __malloc_lock
+ .text.__malloc_unlock
+                0x080065d4        0x4 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mlock.o)
+                0x080065d4                __malloc_unlock
+ .text          0x080065d8        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ .text._Balloc  0x080065d8       0x4c c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x080065d8                _Balloc
+ .text._Bfree   0x08006624       0x14 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08006624                _Bfree
+ .text.__multadd
+                0x08006638       0x98 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08006638                __multadd
+ .text.__s2b    0x080066d0       0x98 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x080066d0                __s2b
+ .text.__hi0bits
+                0x08006768       0x40 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08006768                __hi0bits
+ .text.__lo0bits
+                0x080067a8       0x5c c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x080067a8                __lo0bits
+ .text.__i2b    0x08006804       0x14 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08006804                __i2b
+ .text.__multiply
+                0x08006818      0x13c c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08006818                __multiply
+ .text.__pow5mult
+                0x08006954       0x9c c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08006954                __pow5mult
+ .text.__lshift
+                0x080069f0       0xbc c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x080069f0                __lshift
+ .text.__mcmp   0x08006aac       0x48 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08006aac                __mcmp
+ .text.__mdiff  0x08006af4       0xd4 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08006af4                __mdiff
+ .text.__ulp    0x08006bc8       0x50 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08006bc8                __ulp
+ .text.__b2d    0x08006c18       0xb0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08006c18                __b2d
+ .text.__d2b    0x08006cc8       0xb4 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08006cc8                __d2b
+ .text.__ratio  0x08006d7c       0x54 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08006d7c                __ratio
+ .text._mprec_log10
+                0x08006dd0       0x38 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08006dd0                _mprec_log10
+ .text.__copybits
+                0x08006e08       0x48 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08006e08                __copybits
+ .text.__any_on
+                0x08006e50       0x60 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08006e50                __any_on
+ .text          0x08006eb0        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-s_fpclassify.o)
+ .text.__fpclassifyd
+                0x08006eb0       0x54 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-s_fpclassify.o)
+                0x08006eb0                __fpclassifyd
+ .text          0x08006f04        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x08006f04       0x24 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sbrkr.o)
+                0x08006f04                _sbrk_r
+ .text          0x08006f28      0x21c c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strcmp.o)
+                0x08006f28                strcmp
+ .text          0x08007144        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+ .text.__ssprint_r
+                0x08007144      0x100 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+                0x08007144                __ssprint_r
+ .text._svfiprintf_r
+                0x08007244      0xb3c c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+                0x08007244                _svfiprintf_r
+ .text          0x08007d80        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-callocr.o)
+ .text._calloc_r
+                0x08007d80       0x60 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-callocr.o)
+                0x08007d80                _calloc_r
+ .text          0x08007de0        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memmove.o)
+ .text.memmove  0x08007de0       0xc0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memmove.o)
+                0x08007de0                memmove
+ .text          0x08007ea0        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memset.o)
+ .text.memset   0x08007ea0       0x94 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memset.o)
+                0x08007ea0                memset
+ .text          0x08007f34        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+ .text._realloc_r
+                0x08007f34      0x3cc c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+                0x08007f34                _realloc_r
+ .text          0x08008300      0x424 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+                0x08008300                __aeabi_dmul
+                0x08008300                __muldf3
+                0x08008554                __divdf3
+                0x08008554                __aeabi_ddiv
+ .text          0x08008724      0x110 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+                0x08008724                __gtdf2
+                0x08008724                __gedf2
+                0x0800872c                __ltdf2
+                0x0800872c                __ledf2
+                0x08008734                __nedf2
+                0x08008734                __eqdf2
+                0x08008734                __cmpdf2
+                0x080087b0                __aeabi_cdrcmple
+                0x080087c0                __aeabi_cdcmpeq
+                0x080087c0                __aeabi_cdcmple
+                0x080087d0                __aeabi_dcmpeq
+                0x080087e4                __aeabi_dcmplt
+                0x080087f8                __aeabi_dcmple
+                0x0800880c                __aeabi_dcmpge
+                0x08008820                __aeabi_dcmpgt
+ .text          0x08008834       0x50 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+                0x08008834                __aeabi_d2iz
+                0x08008834                __fixdfsi
+ .text          0x08008884       0x2c c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+                0x08008884                __aeabi_uldivmod
+ .text          0x080088b0       0x60 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(bpabi.o)
+                0x080088b0                __gnu_ldivmod_helper
+                0x080088e0                __gnu_uldivmod_helper
+ .text          0x08008910        0x4 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+                0x08008910                __aeabi_idiv0
+                0x08008910                __aeabi_ldiv0
+ .text          0x08008914      0x298 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_divdi3.o)
+                0x08008914                __divdi3
+ .text          0x08008bac      0x284 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_udivdi3.o)
+                0x08008bac                __udivdi3
+ *(.init)
+ *(.fini)
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x08008e30        0x4 st.o
+                0x08008e30                st_M
+ .rodata.str1.4
+                0x08008e34       0x34 st.o
+ .rodata.blanks.6743
+                0x08008e68       0x10 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+ .rodata.str1.4
+                0x08008e78       0x42 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+                                 0x44 (size before relaxing)
+ *fill*         0x08008eba        0x2 
+ .rodata.zeroes.6744
+                0x08008ebc       0x10 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+ .rodata.str1.4
+                0x08008ecc       0x10 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+                                 0x14 (size before relaxing)
+ .rodata.str1.4
+                0x08008edc        0x2 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x08008ede        0x2 
+ .rodata._global_impure_ptr
+                0x08008ee0        0x4 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+                0x08008ee0                _global_impure_ptr
+ .rodata.str1.4
+                0x08008ee4        0xc c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+                                 0x14 (size before relaxing)
+ .rodata.p05.5288
+                0x08008ef0        0xc c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ *fill*         0x08008efc        0x4 
+ .rodata.__mprec_tens
+                0x08008f00       0xc8 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08008f00                __mprec_tens
+ .rodata.__mprec_bigtens
+                0x08008fc8       0x28 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08008fc8                __mprec_bigtens
+ .rodata.__mprec_tinytens
+                0x08008ff0       0x28 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08008ff0                __mprec_tinytens
+ .rodata.blanks.6687
+                0x08009018       0x10 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+ .rodata.str1.4
+                0x00000000       0x30 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+ .rodata.zeroes.6688
+                0x08009028       0x10 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+ *(.eh_frame*)
+
+.glue_7         0x08009038        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x08009038        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x08009038        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08009038        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x08009038        0x0
+ .iplt          0x00000000        0x0 startup_stm32f4xx.o
+
+.ARM.extab      0x08009038        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x08009038        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_divdi3.o)
+ .ARM.extab     0x08009038        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_udivdi3.o)
+                0x08009038                __exidx_start = .
+
+.ARM.exidx      0x08009038        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x08009038        0x8 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_divdi3.o)
+ .ARM.exidx     0x08009040        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_udivdi3.o)
+                                  0x8 (size before relaxing)
+                0x08009040                __exidx_end = .
+                0x08009040                __etext = .
+
+.rel.dyn        0x08009040        0x0
+ .rel.iplt      0x00000000        0x0 startup_stm32f4xx.o
+
+.data           0x20000000      0x908 load address 0x08009040
+                0x20000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data          0x20000000        0x0 startup_stm32f4xx.o
+ .data          0x20000000        0x0 stm32f4xx_syscfg.o
+ .data          0x20000000        0x0 stm32f4xx_it.o
+ .data          0x20000000        0x0 stm32f4xx_pwr.o
+ .data          0x20000000       0x10 stm32f4xx_rcc.o
+ .data          0x20000010        0x0 stm32f4xx_usart.o
+ .data          0x20000010       0x14 system_stm32f4xx.o
+                0x20000010                AHBPrescTable
+                0x20000020                SystemCoreClock
+ .data          0x20000024       0x20 st_data.o
+                0x20000024                st_P
+ .data          0x20000044        0x0 stm32f4xx_dma.o
+ .data          0x20000044        0x0 misc.o
+ .data          0x20000044        0x0 st.o
+ .data          0x20000044        0x0 waijung_hwdrvlib.o
+ .data          0x20000044        0x0 stm32f4xx_i2c.o
+ .data          0x20000044        0x4 syscalls.o
+                0x20000044                environ
+ .data          0x20000048        0x4 main.o
+                0x20000048                systick_count
+ .data          0x2000004c        0x0 stm32f4xx_gpio.o
+ .data          0x2000004c        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+ .data          0x2000004c        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memcpy.o)
+ .data          0x2000004c        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reent.o)
+ .data          0x2000004c        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+ .data          0x2000004c        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strlen.o)
+ .data          0x2000004c        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+ .data          0x2000004c        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+ .data          0x2000004c        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+ .data          0x2000004c        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+ *fill*         0x2000004c        0x4 
+ .data.impure_data
+                0x20000050      0x428 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000478        0x4 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+                0x20000478                _impure_ptr
+ .data          0x2000047c        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .data.lc_message_charset
+                0x2000047c       0x20 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .data.lconv    0x2000049c       0x38 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .data.lc_ctype_charset
+                0x200004d4       0x20 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .data.__mb_cur_max
+                0x200004f4        0x4 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+                0x200004f4                __mb_cur_max
+ .data          0x200004f8        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+ .data.__malloc_av_
+                0x200004f8      0x408 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                0x200004f8                __malloc_av_
+ .data.__malloc_trim_threshold
+                0x20000900        0x4 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                0x20000900                __malloc_trim_threshold
+ .data.__malloc_sbrk_base
+                0x20000904        0x4 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                0x20000904                __malloc_sbrk_base
+ .data          0x20000908        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memchr-stub.o)
+ .data          0x20000908        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mlock.o)
+ .data          0x20000908        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ .data          0x20000908        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-s_fpclassify.o)
+ .data          0x20000908        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sbrkr.o)
+ .data          0x20000908        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strcmp.o)
+ .data          0x20000908        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+ .data          0x20000908        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-callocr.o)
+ .data          0x20000908        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memmove.o)
+ .data          0x20000908        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memset.o)
+ .data          0x20000908        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+ .data          0x20000908        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+ .data          0x20000908        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+ .data          0x20000908        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+ .data          0x20000908        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x20000908        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(bpabi.o)
+ .data          0x20000908        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+ .data          0x20000908        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_divdi3.o)
+ .data          0x20000908        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_udivdi3.o)
+                0x20000908                . = ALIGN (0x4)
+                0x20000908                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x20000908                PROVIDE (__preinit_array_end, .)
+                0x20000908                . = ALIGN (0x4)
+                0x20000908                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x20000908                PROVIDE (__init_array_end, .)
+                0x20000908                . = ALIGN (0x4)
+                0x20000908                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                0x20000908                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+                0x20000908                . = ALIGN (0x4)
+                0x20000908                __data_end__ = .
+
+.igot.plt       0x20000908        0x0 load address 0x08009948
+ .igot.plt      0x00000000        0x0 startup_stm32f4xx.o
+
+.bss            0x20000908      0x414 load address 0x08009948
+                0x20000908                . = ALIGN (0x4)
+                0x20000908                __bss_start__ = .
+ *(.bss*)
+ .bss           0x20000908        0x0 startup_stm32f4xx.o
+ .bss           0x20000908        0x0 stm32f4xx_syscfg.o
+ .bss           0x20000908        0x0 stm32f4xx_it.o
+ .bss           0x20000908        0x0 stm32f4xx_pwr.o
+ .bss           0x20000908        0x0 stm32f4xx_rcc.o
+ .bss           0x20000908        0x0 stm32f4xx_usart.o
+ .bss           0x20000908        0x0 system_stm32f4xx.o
+ .bss           0x20000908        0x0 st_data.o
+ .bss           0x20000908        0x0 stm32f4xx_dma.o
+ .bss           0x20000908        0x0 misc.o
+ .bss           0x20000908        0x0 st.o
+ .bss           0x20000908        0x0 waijung_hwdrvlib.o
+ .bss           0x20000908        0x0 stm32f4xx_i2c.o
+ .bss           0x20000908        0x8 syscalls.o
+                0x2000090c                __env
+ .bss           0x20000910        0x4 main.o
+ .bss           0x20000914        0x0 stm32f4xx_gpio.o
+ .bss           0x20000914        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x20000914        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memcpy.o)
+ .bss           0x20000914        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reent.o)
+ .bss           0x20000914        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+ .bss           0x20000914        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strlen.o)
+ .bss           0x20000914        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+ .bss           0x20000914        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+ .bss           0x20000914        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+ .bss           0x20000914        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+ .bss           0x20000914        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .bss._PathLocale
+                0x20000914        0x4 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+                0x20000914                _PathLocale
+ .bss.__nlocale_changed
+                0x20000918        0x4 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+                0x20000918                __nlocale_changed
+ .bss.__mlocale_changed
+                0x2000091c        0x4 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+                0x2000091c                __mlocale_changed
+ .bss           0x20000920        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x20000920        0x4 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                0x20000920                __malloc_max_total_mem
+ .bss.__malloc_max_sbrked_mem
+                0x20000924        0x4 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                0x20000924                __malloc_max_sbrked_mem
+ .bss.__malloc_top_pad
+                0x20000928        0x4 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                0x20000928                __malloc_top_pad
+ .bss.__malloc_current_mallinfo
+                0x2000092c       0x28 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                0x2000092c                __malloc_current_mallinfo
+ .bss           0x20000954        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memchr-stub.o)
+ .bss           0x20000954        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mlock.o)
+ .bss           0x20000954        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ .bss           0x20000954        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-s_fpclassify.o)
+ .bss           0x20000954        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sbrkr.o)
+ .bss           0x20000954        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strcmp.o)
+ .bss           0x20000954        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+ .bss           0x20000954        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-callocr.o)
+ .bss           0x20000954        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memmove.o)
+ .bss           0x20000954        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memset.o)
+ .bss           0x20000954        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+ .bss           0x20000954        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x20000954        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x20000954        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x20000954        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x20000954        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(bpabi.o)
+ .bss           0x20000954        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+ .bss           0x20000954        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_divdi3.o)
+ .bss           0x20000954        0x0 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_udivdi3.o)
+ *(COMMON)
+ COMMON         0x20000954       0x34 st.o
+                0x20000954                st_M_
+                0x2000095c                st_DWork
+                0x20000960                st_B
+ COMMON         0x20000988      0x390 waijung_hwdrvlib.o
+                0x20000988                I2CMasterReadWrite_f_RBuffer
+                0x2000098c                I2CMasterReadWrite1_f_RBuffer
+                0x20000990                I2CMasterReadWrite2_WBuffer
+                0x20000994                I2CMasterReadWrite2
+                0x200009a8                I2CMasterReadWrite1_f_WBuffer
+                0x200009ac                I2CMasterReadWrite_f_WBuffer
+                0x200009b0                I2CMasterReadWrite4_e_WBuffer
+                0x200009b4                I2CMasterReadWrite
+                0x200009c8                I2CMasterReadWrite2_g_WBuffer
+                0x200009cc                i2c_processing_timer
+                0x200009dc                I2CMasterReadWrite4_e_RBuffer
+                0x200009e0                I2CMasterReadWrite3_g_RBuffer
+                0x200009e4                I2CMasterReadWrite4
+                0x200009f8                I2CMasterReadWrite2_RBuffer
+                0x200009fc                I2CMasterReadWrite2_m
+                0x20000a10                I2CMasterReadWrite3_g_WBuffer
+                0x20000a14                I2CMasterReadWrite4_RBuffer
+                0x20000a18                I2CMasterReadWrite_f
+                0x20000a2c                I2CMasterReadWrite1
+                0x20000a40                I2CMasterReadWrite3_RBuffer
+                0x20000a44                I2CMasterReadWrite5_RBuffer
+                0x20000a48                I2CMasterReadWrite3_g
+                0x20000a5c                UART2_Tx_Buffer
+                0x20000c5c                I2CMasterReadWrite_WBuffer
+                0x20000c60                I2CMasterReadWrite1_WBuffer
+                0x20000c64                I2CMasterReadWrite3_WBuffer
+                0x20000c65                UARTSetup_Tx_State
+                0x20000c68                I2CMasterReadWrite3
+                0x20000c7c                I2CMasterReadWrite4_WBuffer
+                0x20000c80                I2CMasterReadWrite5_WBuffer
+                0x20000c84                I2CMasterReadWrite5
+                0x20000c98                I2CMasterReadWrite2_g_RBuffer
+                0x20000c9c                I2CMasterReadWrite2_g
+                0x20000cb0                I2CMasterReadWrite1_f
+                0x20000cc4                UARTSetup_DMA_Init
+                0x20000d00                I2CMasterReadWrite2_m_WBuffer
+                0x20000d04                I2CMasterReadWrite4_e
+ COMMON         0x20000d18        0x4 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reent.o)
+                0x20000d18                errno
+                0x20000d1c                . = ALIGN (0x4)
+                0x20000d1c                __bss_end__ = .
+
+.heap           0x20000d20      0x200
+                0x20000d20                __end__ = .
+                0x20000d20                end = __end__
+ *(.heap*)
+ .heap          0x20000d20      0x200 startup_stm32f4xx.o
+                0x20000d20                __HeapBase
+                0x20000f20                __HeapLimit = .
+
+.stack_dummy    0x20000d20      0x400
+ *(.stack*)
+ .stack         0x20000d20      0x400 startup_stm32f4xx.o
+                0x2001c000                __StackTop = (ORIGIN (RAM) + 0x1c000)
+                0x2001bc00                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x2001c000                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(ST.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x35
+ .ARM.attributes
+                0x00000000       0x1f startup_stm32f4xx.o
+ .ARM.attributes
+                0x0000001f       0x35 stm32f4xx_syscfg.o
+ .ARM.attributes
+                0x00000054       0x35 stm32f4xx_it.o
+ .ARM.attributes
+                0x00000089       0x35 stm32f4xx_pwr.o
+ .ARM.attributes
+                0x000000be       0x35 stm32f4xx_rcc.o
+ .ARM.attributes
+                0x000000f3       0x35 stm32f4xx_usart.o
+ .ARM.attributes
+                0x00000128       0x35 system_stm32f4xx.o
+ .ARM.attributes
+                0x0000015d       0x35 st_data.o
+ .ARM.attributes
+                0x00000192       0x35 stm32f4xx_dma.o
+ .ARM.attributes
+                0x000001c7       0x35 misc.o
+ .ARM.attributes
+                0x000001fc       0x35 st.o
+ .ARM.attributes
+                0x00000231       0x35 waijung_hwdrvlib.o
+ .ARM.attributes
+                0x00000266       0x35 stm32f4xx_i2c.o
+ .ARM.attributes
+                0x0000029b       0x35 syscalls.o
+ .ARM.attributes
+                0x000002d0       0x35 main.o
+ .ARM.attributes
+                0x00000305       0x35 stm32f4xx_gpio.o
+ .ARM.attributes
+                0x0000033a       0x22 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000035c       0x20 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000037c       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000003b0       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x000003e4       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000418       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x0000044c       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x00000480       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+ .ARM.attributes
+                0x000004b4       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000004e8       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .ARM.attributes
+                0x0000051c       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000550       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x00000584       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000005b8       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x000005ec       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x00000620       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000654       0x20 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000674       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x000006a8       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x000006dc       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000710       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000744       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x00000778       0x22 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000079a       0x22 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x000007bc       0x22 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x000007de       0x22 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000800       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x00000834       0x22 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000856       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x0000088a       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_udivdi3.o)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 stm32f4xx_syscfg.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 stm32f4xx_it.o
+ .comment       0x00000000       0x71 stm32f4xx_pwr.o
+ .comment       0x00000000       0x71 stm32f4xx_rcc.o
+ .comment       0x00000000       0x71 stm32f4xx_usart.o
+ .comment       0x00000000       0x71 system_stm32f4xx.o
+ .comment       0x00000000       0x71 st_data.o
+ .comment       0x00000000       0x71 stm32f4xx_dma.o
+ .comment       0x00000000       0x71 misc.o
+ .comment       0x00000000       0x71 st.o
+ .comment       0x00000000       0x71 waijung_hwdrvlib.o
+ .comment       0x00000000       0x71 stm32f4xx_i2c.o
+ .comment       0x00000000       0x71 syscalls.o
+ .comment       0x00000000       0x71 main.o
+ .comment       0x00000000       0x71 stm32f4xx_gpio.o
+
+.debug_frame    0x00000000      0x73c
+ .debug_frame   0x00000000       0x48 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reent.o)
+ .debug_frame   0x00000048       0x64 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+ .debug_frame   0x000000ac       0x20 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strlen.o)
+ .debug_frame   0x000000cc       0x3c c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+ .debug_frame   0x00000108       0x64 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+ .debug_frame   0x0000016c       0x50 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+ .debug_frame   0x000001bc       0x98 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .debug_frame   0x00000254       0x38 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+ .debug_frame   0x0000028c       0x2c c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memchr-stub.o)
+ .debug_frame   0x000002b8       0x30 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mlock.o)
+ .debug_frame   0x000002e8      0x22c c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ .debug_frame   0x00000514       0x28 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x0000053c       0x2c c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000568       0x64 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+ .debug_frame   0x000005cc       0x28 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-callocr.o)
+ .debug_frame   0x000005f4       0x2c c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memmove.o)
+ .debug_frame   0x00000620       0x2c c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memset.o)
+ .debug_frame   0x0000064c       0x38 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+ .debug_frame   0x00000684       0x50 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(bpabi.o)
+ .debug_frame   0x000006d4       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_divdi3.o)
+ .debug_frame   0x00000708       0x34 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_udivdi3.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_IRQHandler                                    startup_stm32f4xx.o
+AHBPrescTable                                     system_stm32f4xx.o
+BusFault_Handler                                  stm32f4xx_it.o
+                                                  startup_stm32f4xx.o
+CAN1_RX0_IRQHandler                               startup_stm32f4xx.o
+CAN1_RX1_IRQHandler                               startup_stm32f4xx.o
+CAN1_SCE_IRQHandler                               startup_stm32f4xx.o
+CAN1_TX_IRQHandler                                startup_stm32f4xx.o
+CAN2_RX0_IRQHandler                               startup_stm32f4xx.o
+CAN2_RX1_IRQHandler                               startup_stm32f4xx.o
+CAN2_SCE_IRQHandler                               startup_stm32f4xx.o
+CAN2_TX_IRQHandler                                startup_stm32f4xx.o
+CRYP_IRQHandler                                   startup_stm32f4xx.o
+DCMI_IRQHandler                                   startup_stm32f4xx.o
+DMA1_Stream0_IRQHandler                           startup_stm32f4xx.o
+DMA1_Stream1_IRQHandler                           startup_stm32f4xx.o
+DMA1_Stream2_IRQHandler                           startup_stm32f4xx.o
+DMA1_Stream3_IRQHandler                           startup_stm32f4xx.o
+DMA1_Stream4_IRQHandler                           startup_stm32f4xx.o
+DMA1_Stream5_IRQHandler                           startup_stm32f4xx.o
+DMA1_Stream6_IRQHandler                           startup_stm32f4xx.o
+DMA1_Stream7_IRQHandler                           startup_stm32f4xx.o
+DMA2_Stream0_IRQHandler                           startup_stm32f4xx.o
+DMA2_Stream1_IRQHandler                           startup_stm32f4xx.o
+DMA2_Stream2_IRQHandler                           startup_stm32f4xx.o
+DMA2_Stream3_IRQHandler                           startup_stm32f4xx.o
+DMA2_Stream4_IRQHandler                           startup_stm32f4xx.o
+DMA2_Stream5_IRQHandler                           startup_stm32f4xx.o
+DMA2_Stream6_IRQHandler                           startup_stm32f4xx.o
+DMA2_Stream7_IRQHandler                           startup_stm32f4xx.o
+DMA_ClearFlag                                     stm32f4xx_dma.o
+                                                  waijung_hwdrvlib.o
+DMA_ClearITPendingBit                             stm32f4xx_dma.o
+DMA_Cmd                                           stm32f4xx_dma.o
+                                                  waijung_hwdrvlib.o
+DMA_DeInit                                        stm32f4xx_dma.o
+DMA_DoubleBufferModeCmd                           stm32f4xx_dma.o
+DMA_DoubleBufferModeConfig                        stm32f4xx_dma.o
+DMA_FlowControllerConfig                          stm32f4xx_dma.o
+DMA_GetCmdStatus                                  stm32f4xx_dma.o
+DMA_GetCurrDataCounter                            stm32f4xx_dma.o
+DMA_GetCurrentMemoryTarget                        stm32f4xx_dma.o
+DMA_GetFIFOStatus                                 stm32f4xx_dma.o
+DMA_GetFlagStatus                                 stm32f4xx_dma.o
+                                                  waijung_hwdrvlib.o
+DMA_GetITStatus                                   stm32f4xx_dma.o
+DMA_ITConfig                                      stm32f4xx_dma.o
+DMA_Init                                          stm32f4xx_dma.o
+                                                  waijung_hwdrvlib.o
+DMA_MemoryTargetConfig                            stm32f4xx_dma.o
+DMA_PeriphIncOffsetSizeConfig                     stm32f4xx_dma.o
+DMA_SetCurrDataCounter                            stm32f4xx_dma.o
+DMA_StructInit                                    stm32f4xx_dma.o
+DebugMon_Handler                                  stm32f4xx_it.o
+                                                  startup_stm32f4xx.o
+Default_Handler                                   startup_stm32f4xx.o
+ETH_IRQHandler                                    startup_stm32f4xx.o
+ETH_WKUP_IRQHandler                               startup_stm32f4xx.o
+EXTI0_IRQHandler                                  startup_stm32f4xx.o
+EXTI15_10_IRQHandler                              startup_stm32f4xx.o
+EXTI1_IRQHandler                                  startup_stm32f4xx.o
+EXTI2_IRQHandler                                  startup_stm32f4xx.o
+EXTI3_IRQHandler                                  startup_stm32f4xx.o
+EXTI4_IRQHandler                                  startup_stm32f4xx.o
+EXTI9_5_IRQHandler                                startup_stm32f4xx.o
+FLASH_IRQHandler                                  startup_stm32f4xx.o
+FPU_IRQHandler                                    startup_stm32f4xx.o
+FSMC_IRQHandler                                   startup_stm32f4xx.o
+GPIO_DeInit                                       stm32f4xx_gpio.o
+GPIO_Init                                         stm32f4xx_gpio.o
+                                                  waijung_hwdrvlib.o
+GPIO_PinAFConfig                                  stm32f4xx_gpio.o
+                                                  waijung_hwdrvlib.o
+GPIO_PinLockConfig                                stm32f4xx_gpio.o
+GPIO_ReadInputData                                stm32f4xx_gpio.o
+GPIO_ReadInputDataBit                             stm32f4xx_gpio.o
+                                                  waijung_hwdrvlib.o
+GPIO_ReadOutputData                               stm32f4xx_gpio.o
+GPIO_ReadOutputDataBit                            stm32f4xx_gpio.o
+GPIO_ResetBits                                    stm32f4xx_gpio.o
+                                                  waijung_hwdrvlib.o
+GPIO_SetBits                                      stm32f4xx_gpio.o
+                                                  waijung_hwdrvlib.o
+GPIO_StructInit                                   stm32f4xx_gpio.o
+GPIO_ToggleBits                                   stm32f4xx_gpio.o
+GPIO_Write                                        stm32f4xx_gpio.o
+GPIO_WriteBit                                     stm32f4xx_gpio.o
+HASH_RNG_IRQHandler                               startup_stm32f4xx.o
+HardFault_Handler                                 stm32f4xx_it.o
+                                                  startup_stm32f4xx.o
+I2C1_ER_IRQHandler                                startup_stm32f4xx.o
+I2C1_EV_IRQHandler                                startup_stm32f4xx.o
+I2C2_ER_IRQHandler                                startup_stm32f4xx.o
+I2C2_EV_IRQHandler                                startup_stm32f4xx.o
+I2C3_ER_IRQHandler                                startup_stm32f4xx.o
+I2C3_EV_IRQHandler                                startup_stm32f4xx.o
+I2CMasterReadWrite                                waijung_hwdrvlib.o
+                                                  st.o
+I2CMasterReadWrite1                               waijung_hwdrvlib.o
+                                                  st.o
+I2CMasterReadWrite1_WBuffer                       waijung_hwdrvlib.o
+I2CMasterReadWrite1_f                             waijung_hwdrvlib.o
+                                                  st.o
+I2CMasterReadWrite1_f_RBuffer                     waijung_hwdrvlib.o
+I2CMasterReadWrite1_f_WBuffer                     waijung_hwdrvlib.o
+I2CMasterReadWrite2                               waijung_hwdrvlib.o
+                                                  st.o
+I2CMasterReadWrite2_RBuffer                       waijung_hwdrvlib.o
+I2CMasterReadWrite2_WBuffer                       waijung_hwdrvlib.o
+I2CMasterReadWrite2_g                             waijung_hwdrvlib.o
+                                                  st.o
+I2CMasterReadWrite2_g_RBuffer                     waijung_hwdrvlib.o
+I2CMasterReadWrite2_g_WBuffer                     waijung_hwdrvlib.o
+I2CMasterReadWrite2_m                             waijung_hwdrvlib.o
+                                                  st.o
+I2CMasterReadWrite2_m_WBuffer                     waijung_hwdrvlib.o
+I2CMasterReadWrite3                               waijung_hwdrvlib.o
+                                                  st.o
+I2CMasterReadWrite3_RBuffer                       waijung_hwdrvlib.o
+I2CMasterReadWrite3_WBuffer                       waijung_hwdrvlib.o
+I2CMasterReadWrite3_g                             waijung_hwdrvlib.o
+                                                  st.o
+I2CMasterReadWrite3_g_RBuffer                     waijung_hwdrvlib.o
+I2CMasterReadWrite3_g_WBuffer                     waijung_hwdrvlib.o
+I2CMasterReadWrite4                               waijung_hwdrvlib.o
+                                                  st.o
+I2CMasterReadWrite4_RBuffer                       waijung_hwdrvlib.o
+I2CMasterReadWrite4_WBuffer                       waijung_hwdrvlib.o
+I2CMasterReadWrite4_e                             waijung_hwdrvlib.o
+                                                  st.o
+I2CMasterReadWrite4_e_RBuffer                     waijung_hwdrvlib.o
+I2CMasterReadWrite4_e_WBuffer                     waijung_hwdrvlib.o
+I2CMasterReadWrite5                               waijung_hwdrvlib.o
+                                                  st.o
+I2CMasterReadWrite5_RBuffer                       waijung_hwdrvlib.o
+I2CMasterReadWrite5_WBuffer                       waijung_hwdrvlib.o
+I2CMasterReadWrite_WBuffer                        waijung_hwdrvlib.o
+I2CMasterReadWrite_f                              waijung_hwdrvlib.o
+                                                  st.o
+I2CMasterReadWrite_f_RBuffer                      waijung_hwdrvlib.o
+I2CMasterReadWrite_f_WBuffer                      waijung_hwdrvlib.o
+I2C_ARPCmd                                        stm32f4xx_i2c.o
+I2C_AcknowledgeConfig                             stm32f4xx_i2c.o
+                                                  waijung_hwdrvlib.o
+I2C_CalculatePEC                                  stm32f4xx_i2c.o
+I2C_CheckEvent                                    stm32f4xx_i2c.o
+                                                  waijung_hwdrvlib.o
+I2C_ClearFlag                                     stm32f4xx_i2c.o
+                                                  waijung_hwdrvlib.o
+I2C_ClearITPendingBit                             stm32f4xx_i2c.o
+I2C_Cmd                                           stm32f4xx_i2c.o
+                                                  waijung_hwdrvlib.o
+I2C_DMACmd                                        stm32f4xx_i2c.o
+I2C_DMALastTransferCmd                            stm32f4xx_i2c.o
+I2C_DeInit                                        stm32f4xx_i2c.o
+                                                  waijung_hwdrvlib.o
+I2C_DualAddressCmd                                stm32f4xx_i2c.o
+I2C_FastModeDutyCycleConfig                       stm32f4xx_i2c.o
+I2C_GeneralCallCmd                                stm32f4xx_i2c.o
+I2C_GenerateSTART                                 stm32f4xx_i2c.o
+                                                  waijung_hwdrvlib.o
+I2C_GenerateSTOP                                  stm32f4xx_i2c.o
+                                                  waijung_hwdrvlib.o
+I2C_GetFlagStatus                                 stm32f4xx_i2c.o
+                                                  waijung_hwdrvlib.o
+I2C_GetITStatus                                   stm32f4xx_i2c.o
+I2C_GetLastEvent                                  stm32f4xx_i2c.o
+I2C_GetPEC                                        stm32f4xx_i2c.o
+I2C_ITConfig                                      stm32f4xx_i2c.o
+I2C_Init                                          stm32f4xx_i2c.o
+                                                  waijung_hwdrvlib.o
+I2C_NACKPositionConfig                            stm32f4xx_i2c.o
+I2C_OwnAddress2Config                             stm32f4xx_i2c.o
+I2C_PECPositionConfig                             stm32f4xx_i2c.o
+I2C_ReadRegister                                  stm32f4xx_i2c.o
+I2C_ReceiveData                                   stm32f4xx_i2c.o
+                                                  waijung_hwdrvlib.o
+I2C_SMBusAlertConfig                              stm32f4xx_i2c.o
+I2C_Send7bitAddress                               stm32f4xx_i2c.o
+                                                  waijung_hwdrvlib.o
+I2C_SendData                                      stm32f4xx_i2c.o
+                                                  waijung_hwdrvlib.o
+I2C_SoftwareResetCmd                              stm32f4xx_i2c.o
+I2C_StretchClockCmd                               stm32f4xx_i2c.o
+I2C_StructInit                                    stm32f4xx_i2c.o
+I2C_TransmitPEC                                   stm32f4xx_i2c.o
+MemManage_Handler                                 stm32f4xx_it.o
+                                                  startup_stm32f4xx.o
+NMI_Handler                                       stm32f4xx_it.o
+                                                  startup_stm32f4xx.o
+NVIC_Init                                         misc.o
+NVIC_PriorityGroupConfig                          misc.o
+NVIC_SetVectorTable                               misc.o
+NVIC_SystemLPConfig                               misc.o
+OTG_FS_IRQHandler                                 startup_stm32f4xx.o
+OTG_FS_WKUP_IRQHandler                            startup_stm32f4xx.o
+OTG_HS_EP1_IN_IRQHandler                          startup_stm32f4xx.o
+OTG_HS_EP1_OUT_IRQHandler                         startup_stm32f4xx.o
+OTG_HS_IRQHandler                                 startup_stm32f4xx.o
+OTG_HS_WKUP_IRQHandler                            startup_stm32f4xx.o
+PVD_IRQHandler                                    startup_stm32f4xx.o
+PWR_BackupAccessCmd                               stm32f4xx_pwr.o
+PWR_BackupRegulatorCmd                            stm32f4xx_pwr.o
+PWR_ClearFlag                                     stm32f4xx_pwr.o
+PWR_DeInit                                        stm32f4xx_pwr.o
+PWR_EnterSTANDBYMode                              stm32f4xx_pwr.o
+PWR_EnterSTOPMode                                 stm32f4xx_pwr.o
+PWR_FlashPowerDownCmd                             stm32f4xx_pwr.o
+PWR_GetFlagStatus                                 stm32f4xx_pwr.o
+PWR_MainRegulatorModeConfig                       stm32f4xx_pwr.o
+PWR_PVDCmd                                        stm32f4xx_pwr.o
+PWR_PVDLevelConfig                                stm32f4xx_pwr.o
+PWR_WakeUpPinCmd                                  stm32f4xx_pwr.o
+PendSV_Handler                                    stm32f4xx_it.o
+                                                  startup_stm32f4xx.o
+RCC_AHB1PeriphClockCmd                            stm32f4xx_rcc.o
+                                                  waijung_hwdrvlib.o
+RCC_AHB1PeriphClockLPModeCmd                      stm32f4xx_rcc.o
+RCC_AHB1PeriphResetCmd                            stm32f4xx_rcc.o
+                                                  stm32f4xx_gpio.o
+RCC_AHB2PeriphClockCmd                            stm32f4xx_rcc.o
+RCC_AHB2PeriphClockLPModeCmd                      stm32f4xx_rcc.o
+RCC_AHB2PeriphResetCmd                            stm32f4xx_rcc.o
+RCC_AHB3PeriphClockCmd                            stm32f4xx_rcc.o
+RCC_AHB3PeriphClockLPModeCmd                      stm32f4xx_rcc.o
+RCC_AHB3PeriphResetCmd                            stm32f4xx_rcc.o
+RCC_APB1PeriphClockCmd                            stm32f4xx_rcc.o
+                                                  waijung_hwdrvlib.o
+                                                  stm32f4xx_it.o
+RCC_APB1PeriphClockLPModeCmd                      stm32f4xx_rcc.o
+RCC_APB1PeriphResetCmd                            stm32f4xx_rcc.o
+                                                  stm32f4xx_i2c.o
+                                                  waijung_hwdrvlib.o
+                                                  stm32f4xx_usart.o
+                                                  stm32f4xx_pwr.o
+RCC_APB2PeriphClockCmd                            stm32f4xx_rcc.o
+                                                  waijung_hwdrvlib.o
+RCC_APB2PeriphClockLPModeCmd                      stm32f4xx_rcc.o
+RCC_APB2PeriphResetCmd                            stm32f4xx_rcc.o
+                                                  stm32f4xx_usart.o
+                                                  stm32f4xx_syscfg.o
+RCC_AdjustHSICalibrationValue                     stm32f4xx_rcc.o
+RCC_BackupResetCmd                                stm32f4xx_rcc.o
+RCC_ClearFlag                                     stm32f4xx_rcc.o
+RCC_ClearITPendingBit                             stm32f4xx_rcc.o
+RCC_ClockSecuritySystemCmd                        stm32f4xx_rcc.o
+RCC_DeInit                                        stm32f4xx_rcc.o
+RCC_GetClocksFreq                                 stm32f4xx_rcc.o
+                                                  stm32f4xx_i2c.o
+                                                  stm32f4xx_usart.o
+RCC_GetFlagStatus                                 stm32f4xx_rcc.o
+RCC_GetITStatus                                   stm32f4xx_rcc.o
+RCC_GetSYSCLKSource                               stm32f4xx_rcc.o
+RCC_HCLKConfig                                    stm32f4xx_rcc.o
+RCC_HSEConfig                                     stm32f4xx_rcc.o
+RCC_HSICmd                                        stm32f4xx_rcc.o
+RCC_I2SCLKConfig                                  stm32f4xx_rcc.o
+RCC_IRQHandler                                    startup_stm32f4xx.o
+RCC_ITConfig                                      stm32f4xx_rcc.o
+RCC_LSEConfig                                     stm32f4xx_rcc.o
+RCC_LSICmd                                        stm32f4xx_rcc.o
+RCC_MCO1Config                                    stm32f4xx_rcc.o
+RCC_MCO2Config                                    stm32f4xx_rcc.o
+RCC_PCLK1Config                                   stm32f4xx_rcc.o
+RCC_PCLK2Config                                   stm32f4xx_rcc.o
+RCC_PLLCmd                                        stm32f4xx_rcc.o
+RCC_PLLConfig                                     stm32f4xx_rcc.o
+RCC_PLLI2SCmd                                     stm32f4xx_rcc.o
+RCC_PLLI2SConfig                                  stm32f4xx_rcc.o
+RCC_RTCCLKCmd                                     stm32f4xx_rcc.o
+RCC_RTCCLKConfig                                  stm32f4xx_rcc.o
+RCC_SYSCLKConfig                                  stm32f4xx_rcc.o
+RCC_WaitForHSEStartUp                             stm32f4xx_rcc.o
+RTC_Alarm_IRQHandler                              startup_stm32f4xx.o
+RTC_WKUP_IRQHandler                               startup_stm32f4xx.o
+Reset_Handler                                     startup_stm32f4xx.o
+SDIO_IRQHandler                                   startup_stm32f4xx.o
+SPI1_IRQHandler                                   startup_stm32f4xx.o
+SPI2_IRQHandler                                   startup_stm32f4xx.o
+SPI3_IRQHandler                                   startup_stm32f4xx.o
+SVC_Handler                                       stm32f4xx_it.o
+                                                  startup_stm32f4xx.o
+SYSCFG_CompensationCellCmd                        stm32f4xx_syscfg.o
+SYSCFG_DeInit                                     stm32f4xx_syscfg.o
+SYSCFG_ETH_MediaInterfaceConfig                   stm32f4xx_syscfg.o
+SYSCFG_EXTILineConfig                             stm32f4xx_syscfg.o
+SYSCFG_GetCompensationCellStatus                  stm32f4xx_syscfg.o
+SYSCFG_MemoryRemapConfig                          stm32f4xx_syscfg.o
+SysTick_CLKSourceConfig                           misc.o
+SysTick_Handler                                   main.o
+                                                  startup_stm32f4xx.o
+SysTimer_IsTimeout                                waijung_hwdrvlib.o
+SysTimer_Start                                    waijung_hwdrvlib.o
+SysTimer_delay_ms                                 waijung_hwdrvlib.o
+SysTimer_delay_us                                 waijung_hwdrvlib.o
+SysTimer_uS_IsTimeout                             waijung_hwdrvlib.o
+SysTimer_uS_Start                                 waijung_hwdrvlib.o
+SystemCoreClock                                   system_stm32f4xx.o
+SystemCoreClockUpdate                             system_stm32f4xx.o
+SystemInit                                        system_stm32f4xx.o
+                                                  startup_stm32f4xx.o
+TAMP_STAMP_IRQHandler                             startup_stm32f4xx.o
+TIM1_BRK_TIM9_IRQHandler                          startup_stm32f4xx.o
+TIM1_CC_IRQHandler                                startup_stm32f4xx.o
+TIM1_TRG_COM_TIM11_IRQHandler                     startup_stm32f4xx.o
+TIM1_UP_TIM10_IRQHandler                          startup_stm32f4xx.o
+TIM2_IRQHandler                                   startup_stm32f4xx.o
+TIM3_IRQHandler                                   startup_stm32f4xx.o
+TIM4_IRQHandler                                   startup_stm32f4xx.o
+TIM5_IRQHandler                                   startup_stm32f4xx.o
+TIM6_DAC_IRQHandler                               startup_stm32f4xx.o
+TIM7_IRQHandler                                   startup_stm32f4xx.o
+TIM8_BRK_TIM12_IRQHandler                         startup_stm32f4xx.o
+TIM8_CC_IRQHandler                                startup_stm32f4xx.o
+TIM8_TRG_COM_TIM14_IRQHandler                     startup_stm32f4xx.o
+TIM8_UP_TIM13_IRQHandler                          startup_stm32f4xx.o
+UART2_FlushTxBuffer                               waijung_hwdrvlib.o
+                                                  st.o
+UART2_TxUpdate                                    waijung_hwdrvlib.o
+                                                  st.o
+UART2_Tx_Buffer                                   waijung_hwdrvlib.o
+                                                  st.o
+UART2_Write                                       waijung_hwdrvlib.o
+UART4_IRQHandler                                  startup_stm32f4xx.o
+UART5_IRQHandler                                  startup_stm32f4xx.o
+UARTSetup_DMA_Init                                waijung_hwdrvlib.o
+UARTSetup_Tx_State                                waijung_hwdrvlib.o
+USART1_IRQHandler                                 startup_stm32f4xx.o
+USART2_IRQHandler                                 startup_stm32f4xx.o
+USART3_IRQHandler                                 startup_stm32f4xx.o
+USART6_IRQHandler                                 startup_stm32f4xx.o
+USART_ClearFlag                                   stm32f4xx_usart.o
+                                                  waijung_hwdrvlib.o
+USART_ClearITPendingBit                           stm32f4xx_usart.o
+USART_ClockInit                                   stm32f4xx_usart.o
+USART_ClockStructInit                             stm32f4xx_usart.o
+USART_Cmd                                         stm32f4xx_usart.o
+                                                  waijung_hwdrvlib.o
+USART_DMACmd                                      stm32f4xx_usart.o
+                                                  waijung_hwdrvlib.o
+USART_DeInit                                      stm32f4xx_usart.o
+USART_GetFlagStatus                               stm32f4xx_usart.o
+                                                  waijung_hwdrvlib.o
+USART_GetITStatus                                 stm32f4xx_usart.o
+USART_HalfDuplexCmd                               stm32f4xx_usart.o
+USART_ITConfig                                    stm32f4xx_usart.o
+USART_Init                                        stm32f4xx_usart.o
+                                                  waijung_hwdrvlib.o
+USART_IrDACmd                                     stm32f4xx_usart.o
+USART_IrDAConfig                                  stm32f4xx_usart.o
+USART_LINBreakDetectLengthConfig                  stm32f4xx_usart.o
+USART_LINCmd                                      stm32f4xx_usart.o
+USART_OneBitMethodCmd                             stm32f4xx_usart.o
+USART_OverSampling8Cmd                            stm32f4xx_usart.o
+                                                  waijung_hwdrvlib.o
+USART_ReceiveData                                 stm32f4xx_usart.o
+USART_ReceiverWakeUpCmd                           stm32f4xx_usart.o
+USART_SendBreak                                   stm32f4xx_usart.o
+USART_SendData                                    stm32f4xx_usart.o
+USART_SetAddress                                  stm32f4xx_usart.o
+USART_SetGuardTime                                stm32f4xx_usart.o
+USART_SetPrescaler                                stm32f4xx_usart.o
+USART_SmartCardCmd                                stm32f4xx_usart.o
+USART_SmartCardNACKCmd                            stm32f4xx_usart.o
+USART_StructInit                                  stm32f4xx_usart.o
+USART_WakeUpConfig                                stm32f4xx_usart.o
+UsageFault_Handler                                stm32f4xx_it.o
+                                                  startup_stm32f4xx.o
+WWDG_IRQHandler                                   startup_stm32f4xx.o
+_Balloc                                           c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+_Bfree                                            c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+_PathLocale                                       c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+__HeapBase                                        startup_stm32f4xx.o
+__HeapLimit                                       startup_stm32f4xx.o
+__StackLimit                                      startup_stm32f4xx.o
+__StackTop                                        startup_stm32f4xx.o
+__adddf3                                          c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__aeabi_cdcmpeq                                   c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdcmple                                   c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdrcmple                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__aeabi_d2iz                                      c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__aeabi_dadd                                      c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__aeabi_dcmpeq                                    c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+__aeabi_dcmpge                                    c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__aeabi_dcmpgt                                    c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__aeabi_dcmple                                    c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__aeabi_dcmplt                                    c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+__aeabi_ddiv                                      c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__aeabi_dmul                                      c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__aeabi_drsub                                     c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__aeabi_dsub                                      c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__aeabi_f2d                                       c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                                                  st.o
+__aeabi_i2d                                       c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__aeabi_idiv0                                     c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+__aeabi_l2d                                       c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__aeabi_ldiv0                                     c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+__aeabi_ui2d                                      c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__aeabi_ul2d                                      c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__aeabi_uldivmod                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+__any_on                                          c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+__b2d                                             c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+__bss_end__                                       syscalls.o
+                                                  startup_stm32f4xx.o
+__bss_start__                                     startup_stm32f4xx.o
+__cmpdf2                                          c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__copybits                                        c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+__d2b                                             c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__data_end__                                      startup_stm32f4xx.o
+__data_start__                                    startup_stm32f4xx.o
+__divdf3                                          c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+__divdi3                                          c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_divdi3.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(bpabi.o)
+__env                                             syscalls.o
+__eqdf2                                           c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__etext                                           startup_stm32f4xx.o
+__extendsfdf2                                     c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__fixdfsi                                         c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+__floatdidf                                       c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__floatsidf                                       c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__floatundidf                                     c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__floatunsidf                                     c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__fpclassifyd                                     c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-s_fpclassify.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+__gedf2                                           c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__gnu_ldivmod_helper                              c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(bpabi.o)
+__gnu_uldivmod_helper                             c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(bpabi.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+__gtdf2                                           c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__hi0bits                                         c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__i2b                                             c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__isr_vector                                      startup_stm32f4xx.o
+__ledf2                                           c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__lo0bits                                         c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+__locale_charset                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+__locale_cjk_lang                                 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+__locale_mb_cur_max                               c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+__locale_msgcharset                               c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+__lshift                                          c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__ltdf2                                           c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__malloc_av_                                      c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+__malloc_current_mallinfo                         c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+__malloc_lock                                     c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mlock.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+__malloc_max_sbrked_mem                           c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+__malloc_max_total_mem                            c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+__malloc_sbrk_base                                c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+__malloc_top_pad                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+__malloc_trim_threshold                           c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+__malloc_unlock                                   c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mlock.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+__mb_cur_max                                      c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+__mcmp                                            c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__mdiff                                           c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__mlocale_changed                                 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+__mprec_bigtens                                   c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__mprec_tens                                      c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__mprec_tinytens                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+__muldf3                                          c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+__multadd                                         c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__multiply                                        c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__nedf2                                           c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+__nlocale_changed                                 c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+__pow5mult                                        c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+__ratio                                           c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+__s2b                                             c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+__ssprint_r                                       c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+__subdf3                                          c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+__udivdi3                                         c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_udivdi3.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(bpabi.o)
+__ulp                                             c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+_calloc_r                                         c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-callocr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+_close                                            syscalls.o
+_dtoa_r                                           c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+_execve                                           syscalls.o
+_exit                                             syscalls.o
+_fork                                             syscalls.o
+_free_r                                           c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reent.o)
+_fstat                                            syscalls.o
+_getpid                                           syscalls.o
+_global_impure_ptr                                c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+_impure_ptr                                       c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reent.o)
+_isatty                                           syscalls.o
+_kill                                             syscalls.o
+_link                                             syscalls.o
+_localeconv_r                                     c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+_lseek                                            syscalls.o
+_malloc_r                                         c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-callocr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+_malloc_trim_r                                    c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+_mprec_log10                                      c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+_read                                             syscalls.o
+_realloc_r                                        c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+_reclaim_reent                                    c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reent.o)
+_sbrk                                             syscalls.o
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sbrkr.o)
+_sbrk_r                                           c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sbrkr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+_setlocale_r                                      c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+_sprintf_r                                        c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+_stat                                             syscalls.o
+_svfiprintf_r                                     c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+_svfprintf_r                                      c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+_unlink                                           syscalls.o
+_wait                                             syscalls.o
+_write                                            syscalls.o
+cleanup_glue                                      c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reent.o)
+disable_I2CMasterSetup                            waijung_hwdrvlib.o
+enable_FailUARTTx                                 waijung_hwdrvlib.o
+                                                  st.o
+enable_I2CMasterSetup                             waijung_hwdrvlib.o
+                                                  st.o
+enable_L3G4200DGetInitL3G4200D1I2CMasterReadWrite2 waijung_hwdrvlib.o
+                                                  st.o
+enable_L3G4200DGetInitL3G4200D1I2CMasterReadWrite3 waijung_hwdrvlib.o
+                                                  st.o
+enable_L3G4200DGetInitL3G4200D1I2CMasterReadWrite4 waijung_hwdrvlib.o
+                                                  st.o
+enable_L3G4200DInitL3G4200DI2CMasterReadWrite     waijung_hwdrvlib.o
+                                                  st.o
+enable_L3G4200DInitL3G4200DI2CMasterReadWrite1    waijung_hwdrvlib.o
+                                                  st.o
+enable_L3G4200DInitL3G4200DI2CMasterReadWrite2    waijung_hwdrvlib.o
+                                                  st.o
+enable_L3G4200DReadL3G4200DI2CMasterReadWrite     waijung_hwdrvlib.o
+                                                  st.o
+enable_L3G4200DReadL3G4200DI2CMasterReadWrite1    waijung_hwdrvlib.o
+                                                  st.o
+enable_L3G4200DReadL3G4200DI2CMasterReadWrite2    waijung_hwdrvlib.o
+                                                  st.o
+enable_L3G4200DReadL3G4200DI2CMasterReadWrite3    waijung_hwdrvlib.o
+                                                  st.o
+enable_L3G4200DReadL3G4200DI2CMasterReadWrite4    waijung_hwdrvlib.o
+                                                  st.o
+enable_L3G4200DReadL3G4200DI2CMasterReadWrite5    waijung_hwdrvlib.o
+                                                  st.o
+enable_SuccessUARTTx                              waijung_hwdrvlib.o
+                                                  st.o
+enable_UARTSetup                                  waijung_hwdrvlib.o
+                                                  st.o
+environ                                           syscalls.o
+errno                                             c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sbrkr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reent.o)
+                                                  syscalls.o
+i2c1_trans_proc                                   waijung_hwdrvlib.o
+                                                  st.o
+i2c_processing_timer                              waijung_hwdrvlib.o
+i2c_trans_proc                                    waijung_hwdrvlib.o
+localeconv                                        c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+main                                              main.o
+                                                  startup_stm32f4xx.o
+memchr                                            c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memchr-stub.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+memcpy                                            c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memcpy.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+                                                  waijung_hwdrvlib.o
+memmove                                           c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memmove.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+memset                                            c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memset.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-callocr.o)
+rt_OneStep                                        main.o
+setlocale                                         c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+sprintf                                           c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+                                                  st.o
+st_B                                              st.o
+st_DWork                                          st.o
+st_M                                              st.o
+st_M_                                             st.o
+st_P                                              st_data.o
+                                                  st.o
+st_initialize                                     st.o
+                                                  main.o
+st_step                                           st.o
+                                                  main.o
+st_terminate                                      st.o
+strcmp                                            c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strcmp.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+strlen                                            c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strlen.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+                                                  c:/users/wasin/skydrive/stm_arm/waijung14_05a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+                                                  st.o
+systick_count                                     main.o
+                                                  waijung_hwdrvlib.o
