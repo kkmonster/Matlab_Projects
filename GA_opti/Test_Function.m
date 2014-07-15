@@ -52,9 +52,9 @@ end
  
     p2 = origin(2,:) - origin(1,:) ;
 
-        thata2=atand(p2(2)/p2(1)) ;
-    Ro1=[   cosd(thata2)    -sind(thata2)   ;...
-            sind(thata2)    cosd(thata2)    ] ;
+        angle=atand(p2(2)/p2(1)) ;
+    Ro1=[   cosd(angle)    -sind(angle)   ;...
+            sind(angle)    cosd(angle)    ] ;
     
     p2 = p2*Ro1 ;
     
