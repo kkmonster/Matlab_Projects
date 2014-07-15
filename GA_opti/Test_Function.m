@@ -3,8 +3,8 @@ clc
 clear all
 
 
-base  =      1.5  ;
-e_eff =      0   ;
+base_r_size  =      1.5  ;
+eff_r_size =      0   ;
 
 
 
@@ -22,7 +22,7 @@ thata1 =    0      ;
 thata2 =    180    ;
 
 
-x = fn_find_intersection_ws_2arm(base,e_eff ,l11,l12,l21,l22,thata1,thata2)
+%  x = fn_find_intersection_ws_2arm(base,e_eff ,l11,l12,l21,l22,thata1,thata2)
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -50,7 +50,7 @@ for n=1:2
 end
 
  
-    p2 = origin(2,:) - origin(1,:) 
+    p2 = origin(2,:) - origin(1,:) ;
 
         thata2=atand(p2(2)/p2(1)) ;
     Ro1=[   cosd(thata2)    -sind(thata2)   ;...
