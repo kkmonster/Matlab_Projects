@@ -1,23 +1,38 @@
-
-    syms z ;
+   clear all ;
+   clc
+   
+   
+    syms x_real_frame ;
         
-    l1 = arm(1,i) ;
-    l2 = arm(2,i) ; 
-    
-    a = -((l2 + l1)^2-z^2)^0.5    ;
-    b = -((l2 - l1)^2-z^2)^0.5    ;
-%% find la
-   
+    l1 = 1
+    l2 = 1
 
+    thata1 = 0 ; 
+    
+
+    y_real_frame  = 0
+    z             = 0
+    x0_real_frame = 0
+    
+%% find edge of x 
+
+
+	ss          = solve(l1^4 - 2*l1^2*l2^2 + l2^4 + ((x_real_frame - x0_real_frame)*cosd(thata1) - y_real_frame*sind(thata1))^4 - 2*l1^2*((x_real_frame - x0_real_frame)*sind(thata1) + y_real_frame*cosd(thata1))^2 + ...
+                        2*l2^2*((x_real_frame - x0_real_frame)*sind(thata1) + y_real_frame*cosd(thata1))^2 + ((x_real_frame - x0_real_frame)*sind(thata1) + y_real_frame*cosd(thata1))^4 - 2*l1^2*z^2 - 2*l2^2*z^2 + 2*((x_real_frame - x0_real_frame)*sind(thata1) + y_real_frame*cosd(thata1))^2*z^2 +...
+                        z^4 + ((x_real_frame - x0_real_frame)*cosd(thata1) - y_real_frame*sind(thata1))^2*(-2*l1^2 - 2*l2^2 + 2*((x_real_frame - x0_real_frame)*sind(thata1) + y_real_frame*cosd(thata1))^2 + 2*z^2) == 0 ,'real',true )  
+
+   a = (max(ss)- min(ss))/2 
+   b = (max(ss)+ min(ss))/2 
    
    
-            index = 1 ;
+%% find z 
+        index = 1 ;
         for xx          = 0 : 1 : 180
             
          
          % trans....   axis    
-         x_arm_frame = (x_real_frame - x0_real_flame)*cosd(thata1) - y_real_frame*sind(thata1);
-         r_arm_frame = (x_real_frame - x0_real_flame)*sind(thata1) + y_real_frame*cosd(thata1);
+         x_arm_frame = ((x_real_frame - x0_real_frame)*cosd(thata1) - y_real_frame*sind(thata1));
+         y_arm_frame = ((x_real_frame - x0_real_frame)*sind(thata1) + y_real_frame*cosd(thata1));
             
             
             x  =(a+b)/2 + (a-b)/2*cosd(xx);
