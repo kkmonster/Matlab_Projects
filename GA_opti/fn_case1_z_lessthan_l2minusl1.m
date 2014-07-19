@@ -2,6 +2,7 @@ function [ xs, ys ] = fn_case1_z_lessthan_l2minusl1 (arm, z, i)
 % Summary of this function goes here
 %   Detailed explanation goes here
 %%
+    clear y ;
     syms y ;
         
     l1 = arm(1,i) ;
