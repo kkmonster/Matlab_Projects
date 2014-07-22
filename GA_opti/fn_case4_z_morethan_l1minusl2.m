@@ -43,6 +43,8 @@ function [ xs, ys ] = fn_case4_z_morethan_l1minusl2 (arm, z, i)
 
         xs = double(xs)   ;
         ys = double(ys)   ;
+        xm = [];
+        ym = [];
 
         
         

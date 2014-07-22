@@ -1,4 +1,4 @@
-function [ xs, ys] = fn_case3_z_lessthan_l1minusl2 (arm, z, i)
+function [ xs, ys, xm ,ym] = fn_case3_z_lessthan_l1minusl2 (arm, z, i)
 % Summary of this function goes here
 %   Detailed explanation goes here
 %%
@@ -11,15 +11,16 @@ function [ xs, ys] = fn_case3_z_lessthan_l1minusl2 (arm, z, i)
     a = -((l1+l2)^2-z^2)^0.5    ;
     b = 0   ;
 
-            index = 1 ;
+            index1 = 1 ;
+            index2 = 1 ;
         for xx          = 0 : 1 : 90
             
             x  =    a*cosd(xx) ;
             
                 if (xx == 0)
                    
-                    ys(index)   = 0        ;
-                    xs(index)   = x        ;
+                    ys(index1)   = 0        ;
+                    xs(index1)   = x        ;
                     
                 else
 
@@ -27,22 +28,36 @@ function [ xs, ys] = fn_case3_z_lessthan_l1minusl2 (arm, z, i)
                                 2*l2^2*y^2 + y^4 - 2*l1^2*z^2 - 2*l2^2*z^2 + 2*y^2*z^2 +...
                                 z^4 + x^2*(-2*l1^2 - 2*l2^2 + 2*y^2 + 2*z^2) == 0 ,'real',true )  ;
                     ss          = vpa(ss,4); 
-                    ss          = sort(ss,1,'descend');
+                    ss          = sort(ss,1,'descend')
 
-                    ys(index)   = ss(1)  ;
-                    xs(index)   = x      ;
-                  
+                    ys(index1)   = ss(1)  ;
+                    xs(index1)   = x      ;
+                                      
+                    siz = size(ss);
+                    siz = siz(1) ;
+                    
+                    if  (siz > 2)
+                        
+                        ym(index2) = ss(2)  ;
+                        xm(index2) = x      ;
+                        index2 = index2 + 1 ;
+                    end
                 end
-            index = index + 1 ;
+            index1 = index1 + 1 ;
         end
 
-        ys = [ -(fliplr(ys)) ys] ;
-        xs = [   fliplr(xs)  xs] ;
+        ys = [ys (fliplr(ym))];
+        xs = [xs (fliplr(xm))];
+        
+        ys = [ ys -(fliplr(ys))] ;
+        xs = [ xs   fliplr(xs) ] ;
         
 
 
-        xs = double(xs)   ;
-        ys = double(ys)   ;
+        xs = double(xs)     ;
+        ys = double(ys)     ;
+        xm = double(xm)     ;
+        ym = double(ym)     ;
 
         
 end

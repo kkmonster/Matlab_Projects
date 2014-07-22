@@ -1,4 +1,4 @@
-function [ xs, ys ] = fn_case1_z_lessthan_l2minusl1 (arm, z, i)
+function [ xs, ys, xm ,ym] = fn_case1_z_lessthan_l2minusl1 (arm, z, i)
 % Summary of this function goes here
 %   Detailed explanation goes here
 %%
@@ -43,6 +43,8 @@ function [ xs, ys ] = fn_case1_z_lessthan_l2minusl1 (arm, z, i)
 
         xs = double(xs)   ;
         ys = double(ys)   ;
+        xm = [];
+        ym = [];
 
 end
     

@@ -17,14 +17,14 @@ r = base-e_eff   ;
 % sizes of   arms =    [ l11  l21  l31 ]   1 lower with eff
 %                      [ l12  l22  l32 ]   2 upper with motor
 
-l11 =    20         ;
-l12 =    40         ;
+l11 =    40         ;
+l12 =    30         ;
 
-l21 =    20         ;
-l22 =    40         ;
+l21 =    40         ;
+l22 =    30         ;
 
-l31 =    20         ;
-l32 =    40         ;
+l31 =    40         ;
+l32 =    30         ;
 
 % angle of Actuator Counter Clockwise
 thata1 =    0      ;
