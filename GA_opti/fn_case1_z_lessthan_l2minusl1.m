@@ -39,36 +39,11 @@ function [ xs, ys ] = fn_case1_z_lessthan_l2minusl1 (arm, z, i)
         ys = [ -(fliplr(ys)) ys] ;
         xs = [   fliplr(xs)  xs] ;
         
-%         parfor (n = 1 : 1 : 362)
-%         	zs(n) = z   ; 
-%         end
+
 
         xs = double(xs)   ;
         ys = double(ys)   ;
-%         zs = double(zs)   ;
-        
+
 end
     
-%         index = 1   ;
-%         for xx          = 0 : 1 : 180
-%             x           =(a+b)/2 + (a-b)/2*cosd(xx);
-%             ss          = solve(l1^4 - 2*l1^2*l2^2 + l2^4 + x^4 - 2*l1^2*y^2 + ...
-%                         2*l2^2*y^2 + y^4 - 2*l1^2*z^2 - 2*l2^2*z^2 + 2*y^2*z^2 +...
-%                         z^4 + x^2*(-2*l1^2 - 2*l2^2 + 2*y^2 + 2*z^2) == 0 ,'real',true )  ;
-%             ss          = vpa(ss,4); 
-%             ss          = sort(ss,1,'descend');
-%             if size(ss)== 1
-%             ys(index)   = ss(1,1)    ;
-%             xs(index)   = x        ;
-%             end
-%             
-%             index = index + 1 ;
-%         end
-% 
-%         ys = [ -(fliplr(ys)) ys] ;
-%         xs = [   fliplr(xs)  xs] ;
-% 
-%           ys = double(ys)   ;
-%           xs = double(xs)	;
-%end
 
