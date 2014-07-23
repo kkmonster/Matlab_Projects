@@ -1,4 +1,4 @@
-function [ xs, ys, xm ,ym] = fn_case2_z_morethan_l2minusl1 (arm, z, i)
+function [ xs, ys ] = fn_case2_z_morethan_l2minusl1 (arm, z, i)
 %   Summary of this function goes here
 %   Detailed explanation goes here
 %%
@@ -16,7 +16,7 @@ function [ xs, ys, xm ,ym] = fn_case2_z_morethan_l2minusl1 (arm, z, i)
             
             x  =    a*cosd(xx) ;
             
-                if (xx == 0)
+                if (xx == 0) || (xx == 180)
                    
                     ys(index)   = 0        ;
                     xs(index)   = x        ;
@@ -43,9 +43,7 @@ function [ xs, ys, xm ,ym] = fn_case2_z_morethan_l2minusl1 (arm, z, i)
 
         xs = double(xs)   ;
         ys = double(ys)   ;
-        xm = [];
-        ym = [];
-        
+
 
     
 end

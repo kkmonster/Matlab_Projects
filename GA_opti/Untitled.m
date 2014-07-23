@@ -56,4 +56,4 @@ zstep_size=(max_z)/15;  %% define resolution
 i =1 ;
 z =0 ;
 
-[ xs, ys, xm ,ym] = fn_case3_z_lessthan_l1minusl2 (arm, z, i)
+[ xs, ys, xm, ym ] = fn_case3_z_lessthan_l1minusl2 (arm, z, i)

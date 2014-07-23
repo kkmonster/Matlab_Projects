@@ -1,6 +1,6 @@
-function [ xs, ys, xm ,ym] = fn_case3_z_lessthan_l1minusl2 (arm, z, i)
+function [ xs, ys, xm, ym ] = fn_case3_z_lessthan_l1minusl2 (arm, z, i)
 % Summary of this function goes here
-%   Detailed explanation goes here
+% Detailed explanation goes here
 %%
     clear y ;
     syms y ;
@@ -13,11 +13,11 @@ function [ xs, ys, xm ,ym] = fn_case3_z_lessthan_l1minusl2 (arm, z, i)
 
             index1 = 1 ;
             index2 = 1 ;
-        for xx          = 0 : 1 : 90
+        for xx          = 0 : 1 : 180
             
             x  =    a*cosd(xx) ;
             
-                if (xx == 0)
+                if (xx == 0) || (xx == 180)
                    
                     ys(index1)   = 0        ;
                     xs(index1)   = x        ;
@@ -28,7 +28,7 @@ function [ xs, ys, xm ,ym] = fn_case3_z_lessthan_l1minusl2 (arm, z, i)
                                 2*l2^2*y^2 + y^4 - 2*l1^2*z^2 - 2*l2^2*z^2 + 2*y^2*z^2 +...
                                 z^4 + x^2*(-2*l1^2 - 2*l2^2 + 2*y^2 + 2*z^2) == 0 ,'real',true )  ;
                     ss          = vpa(ss,4); 
-                    ss          = sort(ss,1,'descend')
+                    ss          = sort(ss,1,'descend');
 
                     ys(index1)   = ss(1)  ;
                     xs(index1)   = x      ;
@@ -46,11 +46,11 @@ function [ xs, ys, xm ,ym] = fn_case3_z_lessthan_l1minusl2 (arm, z, i)
             index1 = index1 + 1 ;
         end
 
-        ys = [ys (fliplr(ym))];
-        xs = [xs (fliplr(xm))];
+        ym = [ym -(fliplr(ym))];
+        xm = [xm  (fliplr(xm))];
         
         ys = [ ys -(fliplr(ys))] ;
-        xs = [ xs   fliplr(xs) ] ;
+        xs = [ xs  (fliplr(xs))] ;
         
 
 
@@ -59,5 +59,5 @@ function [ xs, ys, xm ,ym] = fn_case3_z_lessthan_l1minusl2 (arm, z, i)
         xm = double(xm)     ;
         ym = double(ym)     ;
 
-        
+        [xs, ys] = polybool('subtraction',xs ,ys ,xm ,ym );
 end

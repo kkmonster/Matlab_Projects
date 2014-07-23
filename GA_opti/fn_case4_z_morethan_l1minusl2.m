@@ -12,11 +12,11 @@ function [ xs, ys ] = fn_case4_z_morethan_l1minusl2 (arm, z, i)
     b = 0   ;
 
             index = 1 ;
-        for xx          = 0 : 1 : 90
+        for xx          = 0 : 1 : 180
             
             x  =    a*cosd(xx) ;
             
-                if (xx == 0)
+                if (xx == 0) || (xx == 180)
                    
                     ys(index)   = 0        ;
                     xs(index)   = x        ;
@@ -43,10 +43,7 @@ function [ xs, ys ] = fn_case4_z_morethan_l1minusl2 (arm, z, i)
 
         xs = double(xs)   ;
         ys = double(ys)   ;
-        xm = [];
-        ym = [];
 
-        
         
 end
     
