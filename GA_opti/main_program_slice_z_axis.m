@@ -46,11 +46,9 @@ thata = [thata1, thata2, thata3]        ;
 
 intersec_point = fn_trilateration(arm, thata, r) ;
 max_z = intersec_point(3) ;
-zstep_size=(max_z)/15;  %% define resolution
+zstep_size=(max_z)/15;  %% define number of layers
 
 %%
-
-
 indexz = 1 ;
 for z = 0 : zstep_size : max_z
 

@@ -4,8 +4,8 @@
    
     syms x_real_frame  ;
         
-    l1 = 1
-    l2 = 1
+    l1 = 1 ;
+    l2 = 1 ;
 
     thata1 = 75 ; 
     r = 1 ;
@@ -56,7 +56,7 @@ xs = [];
                     ss          = sort(ss,1,'descend');
                     ss          = double(ss)      ;
                     
-                    if ((size(ss) > [2  1])*[1; 0])
+                    if ((size(ss) > ([2  1])*[1; 0]))
                    
                         zs_minus(index_2) = ss(2)        ;
                         xs_minus(index_2) = x_real_frame ;
@@ -69,13 +69,13 @@ xs = [];
 %                 end
             index_1 = index_1 + 1 ;
      end
-        xs = [   fliplr(xs)  xs] ;
-        ys(1:362) = y_real_frame ;
-        zs = [ -(fliplr(zs)) zs] ;
-        
-        xs_minus = [   fliplr(xs_minus)  xs_minus ] ;
-        ys(1:size(xs_minus)) = y_real_frame ;
-        zs_minus = [ -(fliplr(zs_minus)) zs_minus ] ;
+%         xs = [   fliplr(xs)  xs] ;
+%         ys(1:362) = y_real_frame ;
+%         zs = [ -(fliplr(zs)) zs] ;
+%         
+%         xs_minus = [   fliplr(xs_minus)  xs_minus ] ;
+%         ys(1:size(xs_minus)) = y_real_frame ;
+%         zs_minus = [ -(fliplr(zs_minus)) zs_minus ] ;
 
 
 
