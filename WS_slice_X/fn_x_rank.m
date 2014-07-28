@@ -5,7 +5,7 @@ clear all
 
 y= 0
 r= 0
-thata=60
+thata=270
 l1= 1
 l2= 1
 
@@ -76,17 +76,17 @@ if thata == 0 || thata == 180
     x_ramp_limit_max_2 = NaN ;
      
 elseif thata == 90 || thata == 270
-    x_ramp_1 = solve(xr2-y*tand(thata)+l1 == 0,'real',true ) ;
+    x_ramp_1 = solve(xr1+l1 == 0,'real',true ) ;
     x_ramp_limit_min_1 = x_ramp_1 ;
     x_ramp_limit_max_1 = x_ramp_1 ;
     
-    x_ramp_2 = solve(xr2-y*tand(thata)-l1 == 0,'real',true ) ;
+    x_ramp_2 = solve(xr2-l1 == 0,'real',true ) ;
     x_ramp_limit_min_2 = x_ramp_2 ;
     x_ramp_limit_max_2 = x_ramp_2 ;
     
      
 else
-    x_ramp_1 = solve(xr2-y*tand(thata)+l1/sind(thata) == 0,'real',true ) 
+    x_ramp_1 = solve(xr1-y*tand(thata)+l1/sind(thata) == 0,'real',true ) 
     x_ramp_limit_min_1 = x_origin_1 - l1*sind(thata) 
     x_ramp_limit_max_1 = x_origin_2 - l1*sind(thata) 
    
@@ -105,22 +105,38 @@ end
 
 %% compare the conditions
     
-    sum_circle = [x_circle_1'  x_circle_2']
-    x_limit_1  = min(sum_circle)  
-    x_limit_2  = max(sum_circle)  
+    sum_circle = [x_circle_1'  x_circle_2'];
+    x_limit_1  = min(sum_circle)  ;
+    x_limit_2  = max(sum_circle)  ;
     
-	if (x_ramp_1 >= x_ramp_limit_min_1)&&(x_ramp_1 <= x_ramp_limit_max_1)
-        x_limit_1 = [] 
-	end
-    
-   	if (x_ramp_2 >= x_ramp_limit_min_2)&&(x_ramp_2 <= x_ramp_limit_max_2)
-        x_limit_2 = [] 
-    end   
-     
-    
-%% degree 2 radian 
+    if (thata ~= 90 && thata ~= 270 )          % condition depending on y axis
 
-thata = thata*pi/180 ;
+        if (x_ramp_1 >= x_ramp_limit_min_1)&&(x_ramp_1 <= x_ramp_limit_max_1)
+            x_limit_1 = x_ramp_1 ;
+        end
+
+        if (x_ramp_2 >= x_ramp_limit_min_2)&&(x_ramp_2 <= x_ramp_limit_max_2)
+            x_limit_2 = x_ramp_2 ;
+        end   
+    
+    else 
+        
+       	if (abs(y) >= y_origin_1*sind(thata))&&(abs(y) <= y_origin_2*sind(thata))
+        x_limit_1 = x_ramp_1 ;
+        end
+    
+    	if (abs(y) >= y_origin_1*sind(thata))&&(abs(y) <= y_origin_2*sind(thata))
+        x_limit_2 = x_ramp_2 ;
+        end   
+    
+    end
+    
+    
+    x_limit_1
+    x_limit_2
+% %% degree 2 radian 
+
+% thata = thata*pi/180 ;
 
 % %% find step of discontinus fn
 % 
