@@ -3,9 +3,9 @@ clc
 clear all
 
 
-base  =      1.5  ;
+base  =      0  ;
 e_eff =      0   ;
-
+r = base - e_eff ;
 
 
 % sizes of   arms =    [ l11  l21  l31 ]   1 lower with eff
@@ -18,11 +18,11 @@ l21 =    1         ;
 l22 =    1         ;
 
 % angle of Actuator Counter Clockwise
-thata1 =    0      ;
+thata =    0     ;
 thata2 =    180    ;
 
 
-  x = fn_find_intersection_ws_2arm(base,e_eff ,l11,l12,l21,l22,thata1,thata2)
+y = fn_y_rank( r,thata,l11,l12 )
 
 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

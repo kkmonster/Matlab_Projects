@@ -1,8 +1,7 @@
 function [ x_rank ] = fn_x_rank( y,r,thata,l1,l2 )
 % clc 
 % clear all
-% 
-% 
+
 % y= 0
 % r= 0
 % thata=270
@@ -10,19 +9,20 @@ function [ x_rank ] = fn_x_rank( y,r,thata,l1,l2 )
 % l2= 1
 
 
-%find x rank for slice along z-y plane 
-
+% find x rank for slice along z-y plane 
 % y distant along y axis from origin to origin
 % r radias of base
 % 1 lower with eff
 % 2 upper with motor
 
 %% move thata into 0 - 360
+
 while (thata >= 360)
   thata = thata- 360 ; 
 end
 
 %% find origin of motor
+
 % 1st circle (near(0,0))
 x_origin_1 = (r-l2)*cosd(thata);
 y_origin_1 = (r-l2)*sind(thata);
@@ -30,8 +30,6 @@ y_origin_1 = (r-l2)*sind(thata);
 % 2nd circle (far(0,0))
 x_origin_2 = (r+l2)*cosd(thata);
 y_origin_2 = (r+l2)*sind(thata);
-
-
 
 %% equation & bounary
 % 1st circle
@@ -131,6 +129,8 @@ end
     
     
   x_rank = [ x_limit_1 x_limit_2];
+  
+  
 % %% degree 2 radian 
 
 % thata = thata*pi/180 ;

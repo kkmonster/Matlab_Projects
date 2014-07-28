@@ -1,10 +1,8 @@
-%% test case3 in z slice Title
+% test case3 in z slice Title
 % Summary of example objective
 
 clear all
 clc
-
-
 
 % Determine workspace of Delta Robot by Gossilin's method
 % define Paramiter of Delta Robot 
@@ -34,16 +32,13 @@ thata1 =    0      ;
 thata2 =    120    ;
 thata3 =    240    ;
 
-% for thata3=120 :30:240
+% for thata3 = 120 : 30 : 240
 
 % memory in Matrix form
 
 arm   = [l11, l21, l31; l12, l22, l32 ] ; 
 
 thata = [thata1, thata2, thata3]        ;
-
-
-
 
 %% fine maximum hight point of workspaces
 
