@@ -27,8 +27,8 @@ clear zs xs z ss
 syms z 
 zs = [];
 xs = [];
-     index_1 = 1 ;
-     index_2 = 1 ;
+     index_1 = 1 ;  % 1st solution
+     index_2 = 1 ;  % 2nd solution
      for xx          = 0 : 1 : 180
          
          x_real_frame  =  a + b*cosd(xx)   ;

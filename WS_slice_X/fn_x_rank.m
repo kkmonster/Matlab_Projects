@@ -8,7 +8,6 @@ function [ x_rank ] = fn_x_rank( y,r,thata,l1,l2 )
 % l1= 1
 % l2= 1
 
-
 % find x rank for slice along z-y plane 
 % y distant along y axis from origin to origin
 % r radias of base
@@ -16,7 +15,6 @@ function [ x_rank ] = fn_x_rank( y,r,thata,l1,l2 )
 % 2 upper with motor
 
 %% move thata into 0 - 360
-
 while (thata >= 360)
   thata = thata- 360 ; 
 end
@@ -60,10 +58,6 @@ syms  xc1 xc2 xr1 xr2
     x_circle_2 = solve(l1^2-(xc2-x_origin_2)^2-(y-y_origin_2)^2 == 0,'real',true ) ;
     x_circle_2 = double(x_circle_2); % convert
 
-    
-    
-    
-    
 if thata == 0 || thata == 180
     x_ramp_1 = NaN ;
     x_ramp_limit_min_1 = NaN ;
@@ -82,7 +76,6 @@ elseif thata == 90 || thata == 270
     x_ramp_limit_min_2 = x_ramp_2 ;
     x_ramp_limit_max_2 = x_ramp_2 ;
     
-     
 else
     x_ramp_1 = solve(xr1-y*tand(thata)+l1/sind(thata) == 0,'real',true ) ;
     x_ramp_limit_min_1 = x_origin_1 - l1*sind(thata) ;
@@ -98,7 +91,7 @@ end
     x_ramp_1 = double(x_ramp_1) ; % convert
     
 % 2nd ramp
-    x_ramp_2 = double(x_ramp_2) ;% convert
+    x_ramp_2 = double(x_ramp_2) ; % convert
 
 
 %% compare the conditions
@@ -125,44 +118,14 @@ end
         
         end   
     
-    end
-    
+    end    
     
   x_rank = [ x_limit_1 x_limit_2];
   
-  
-% %% degree 2 radian 
-
-% thata = thata*pi/180 ;
-
-% %% find step of discontinus fn
-% 
-% thata_step = atan2(abs(l2),abs(l1));
-% 
-% %% mapping thata into 0 to 90 degree
-% 
-% while thata > pi/2
-%   thata = thata- pi/2 ; 
-% end
-% 
-% %%
-% if   thata == 0
-%     
-%     x = l1 + l2 ;
-% 
-% elseif thata < thata_step 
-%     
-%     beta = asin(l2/l1*sin(thata));
-%     gramma = pi - thata - beta ;
-%     x = l1 / sin(thata) * sin(gramma) ;
-% 
-% else
-%     
-%     x = l2 / sin(thata);   
-% 
-% end
-% 
-% x_rank = x ;
+  if size(x_rank) == [0,0] 
+      x_rank = [0, 0]
+    
+  end
 
 end
 
